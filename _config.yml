@@ -5,15 +5,12 @@ auto: true
 pygments: true
 paginate: 5
 
-title : Make A Good App
+title : Ttitle
 tagline: 爱生活，爱技术，爱科技，爱折腾
 author :
-  name : storm
-  description: Android Developer, Google Fans, Like OpenSource
-  email : zhangqi.dev@qq.com
-  github : https://github.com/stormzhang
-  twitter : http://twitter.com/storm4android
-  simple_search: http://google.com/search
+  name : aiter
+  description: java
+  email : aiter2006@gmail.com
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -23,7 +20,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://stormzhang.github.io
+#production_url : http://stormzhang.github.io
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -52,7 +50,9 @@ codepiano :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
+  #BASE_PATH : false
+  baseurl: /blog
+  BASE_PATH: /blog
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -80,7 +80,7 @@ codepiano :
   comments :
     provider : disqus
     disqus :
-      short_name : stormsblog
+      short_name : aitersblog
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
