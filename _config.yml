@@ -5,7 +5,7 @@ auto: true
 pygments: true
 paginate: 5
 
-title : Ttitle
+title : 有空再来改~
 tagline: 爱生活，爱技术，爱科技，爱折腾
 author :
   name : aiter
@@ -51,7 +51,6 @@ codepiano :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #BASE_PATH : false
-  baseurl: /blog
   BASE_PATH: http://aiter.github.io/blog
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
@@ -62,7 +61,7 @@ codepiano :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : true
+  ASSET_PATH : false
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
@@ -80,7 +79,7 @@ codepiano :
   comments :
     provider : disqus
     disqus :
-      short_name : aitersblog
+      short_name : aiterblog
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
