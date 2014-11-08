@@ -16,7 +16,7 @@ tags: [maven,assembly]
 
 这张图主要是4个目录，logs目录是执行程序后，日志输出时自动生成的，其他的三个目录，是自动构建的
 
-{% highlight bash lineno %}
+{% highlight ruby %}
 bin
 conf 
 lib
@@ -84,7 +84,7 @@ logs #日志输出时自动生成的
 
 再把一个比较通用的执行脚本也贴上，完整的sample项目可以作为简单项目的模板了。
 
-{% highlight bash lineanchors %}
+{% highlight bash %}
 #!/bin/bash
 #设置环境变量
 . /etc/profile
