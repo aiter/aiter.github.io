@@ -1,6 +1,6 @@
 ---
 layout: post
-keywords: maven
+keywords: maven-assembly-plugin
 description: 介绍使用maven-assembly插件构建一个完成的发布包
 title: "使用maven-assembly插件构建完整的发布包"
 categories: [java]
@@ -16,7 +16,7 @@ tags: [maven,assembly]
 
 这张图主要是4个目录，logs目录是执行程序后，日志输出时自动生成的，其他的三个目录，是自动构建的
 
-{% highlight java %}
+{% highlight shell %}
 bin
 conf 
 lib
@@ -25,7 +25,7 @@ logs #日志输出时自动生成的
 
 直接看看pom.xml文件中maven-assembly插件的配置，主要是指定assemble具体的文件位置。
 
-{% highlight java %}
+{% highlight xml %}
 <plugin>
     <artifactId>maven-assembly-plugin</artifactId>
     <configuration>
@@ -48,7 +48,7 @@ logs #日志输出时自动生成的
 
 再看看src/main/assemble/package.xml的配置
 
-{% highlight java %}
+{% highlight xml %}
 <assembly xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/assembly-1.0.0.xsd">
     <id>maven-assemble-plugin-sample</id>
@@ -84,7 +84,7 @@ logs #日志输出时自动生成的
 
 再把一个比较通用的执行脚本也贴上，完整的sample项目可以作为简单项目的模板了。
 
-{% highlight java %}
+{% highlight shell %}
 #!/bin/bash
 #设置环境变量
 . /etc/profile
