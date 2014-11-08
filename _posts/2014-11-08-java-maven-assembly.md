@@ -51,9 +51,9 @@ logs #日志输出时自动生成的
 {% highlight xml %}
 <assembly xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/assembly-1.0.0.xsd">
-    <id>maven-assemble-plugin-sample</id>
+    <id>maven-assembly-plugin-sample</id>
     <formats>
-        <format>zip</format><!-- 文件类型。还支持：tar.gz；tar.bz2；jar等 -->
+        <format>zip</format><!-- 文件类型。支持：zip;gz;tar;tar.gz;tar.bz2 -->
     </formats>
     <includeBaseDirectory>true</includeBaseDirectory><!-- 压缩包是否包含项目本身的文件夹 -->
     <fileSets>
