@@ -101,6 +101,30 @@ CLIF_call_func  traceroute-2.1.0/libsupp/clif.c /^int CLIF_call_func (CLIF_optio
 ```
 
 ## 最小工具集
-* taglist
-* minibufexpl
-* winmanager
+* tag相关
+
+    *展示、查找、索引tag*
+
+
+|插件|说明|
+|---|---|
+|taglist|标签列表，主要是展示函数列表、字段等|
+  
+* 文件浏览及buffer浏览相关
+
+    *展示、查找、索引 文件(file&folder)*
+
+|插件|说明|
+|---|---|
+|minibufexpl|文件打开后(buffer)，展示文件名|
+|bufexplorer|展示buffer相关信息|
+|winfileexplorer.vim|文件浏览器|
+
+
+* Windows相关
+
+    *需要区分清楚Buffers Windows Tabs* 
+
+|插件|说明|
+|---|---|
+|winmanager|管理windows的布局,如何放上面这些插件，如将taglist放左上，fileexplorer放左下|
