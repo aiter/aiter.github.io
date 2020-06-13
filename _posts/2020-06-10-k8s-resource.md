@@ -120,6 +120,14 @@ tags: [k8s,kubernetes,crd,resource]
 * 容器资源监控
 * 集群级别的日志
 
+## k8s API
+> 暴露http的接口。终端用户、集群中的不同部分、其他一些组件
+
+### API如何兼容老版本
+
+### spec 和 status
+> 申明式
+
 ## Controllers
 > 在k8s中，控制器不断循环观察集群的状态。每个控制器都不断将当前的集群状态逼近期望的状态
 
