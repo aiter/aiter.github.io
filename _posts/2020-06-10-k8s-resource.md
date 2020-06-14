@@ -34,6 +34,13 @@ tags: [k8s,kubernetes,crd,resource]
 |pods|po||
 |services|svc||
 
+> k8s的最小管理和调度单元，一个pod中可以有1个或多个容器。这些容器共享网络、存储
+
+## Volumes 存储
+
+### Persistent Volumes(PV)
+
+### Persistent Volumes Claim(PVC)
 
 ## Service
 > 一组pods提供的服务。在你的集群中，如果有一组pods提供一种服务(比如检索服务)，但是pods会不断的更新、销毁后重启拉起，使用这组
