@@ -151,6 +151,12 @@ tags: [k8s,kubernetes,crd,resource]
     * 其他信息
 * $kubectl api-resources 可以看到自定义的资源类型 [doc](https://kubernetes.io/docs/tasks/access-kubernetes-api/custom-resources/custom-resource-definitions/) 
 
+### 创建CRD的过程
+1. 创建CRD, 让k8s‘认识’我们自定义的API对象
+2. 编写基础代码，使用代码工具生成controller之外的代码
+3. 编写controller代码
+4. 编译代码
+
 |NAME|SHORTNAMES|APIGROUP|NAMESPACED|KIND|
 |---|---|---|---|---|
 |nodes| no|| false| Node|
