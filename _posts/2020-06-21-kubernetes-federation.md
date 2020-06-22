@@ -67,3 +67,6 @@ spec:
     - name: cluster3
 ```
 <img src="/image/k8s_federation_2.png" />
+
+### links
+[Kubernetes Federation: What it is and how to set it up](https://platform9.com/blog/kubernetes-federation-what-it-is-and-how-to-set-it-up/)
