@@ -12,6 +12,7 @@ tags: [k8s,kubernetes,federation]
 > [github](https://github.com/kubernetes-sigs/kubefed)
 > 
 > * manage multiple, disparate Kubernetes clusters 
+
 <img src="/image/k8s_federation.png" />
 
 ## Kubernetes Multi-cluster vs. Multi-tenant vs. Federation
