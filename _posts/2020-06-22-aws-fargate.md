@@ -18,3 +18,13 @@ tags: [k8s,kubernetes,serverless]
 * 部署管理自己的应用，不在管理基础设施(VM)
 * 便宜，也可以使用竞价实例(spot)，用多少付多少
 * 安全隔离
+
+## EC2对比
+* 不需要管理VM(EC2 客户自己管理)
+* Fargate 按每秒付费
+* 运行的任务和EC2中的类似，也可以加入VPCs,LB,IAM
+
+## 推荐场景
+* Machine Learning 
+* CI/CD pipelines
+* Serverless 
