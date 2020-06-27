@@ -28,3 +28,26 @@ tags: [k8s,kubernetes,serverless]
 * Machine Learning 
 * CI/CD pipelines
 * Serverless 
+
+
+## FireCracker
+> Secure and Fast microVM for Serverless Computing
+
+* 解决overhead (对比VM,EC2),管理成本高
+* 事件驱动的场景(有事件，才需要计算，计算完成，释放资源)
+* 既要安全隔离，又要小的overhead
+
+* 使用KVM(Linux Kernel-based Virtual Machine)
+* 微VM
+* 安全、速度、效率
+    * 只启动必须的linux内核
+    * 指定特定的内核编译参数(内核编译有1000+项参数)
+    * 不支持图形功能及图形加速器？
+    * 不支持硬件直通？(passthrough)
+    * 只支持 virtio net 和 virtio block
+
+
+
+
+## links
+[Secure and Fast microVM for Serverless Computing](https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/)
