@@ -4,7 +4,7 @@ keywords: vim
 description: ide、vim
 title: "vim开发环境"
 categories: [tools]
-tags: [vim，tools，ide]
+tags: [vim,tools,ide]
 ---
 {% include codepiano/setup %}
 
