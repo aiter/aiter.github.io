@@ -32,6 +32,7 @@ tags: [k8s,kubernetes,serverless]
 
 ## FireCracker
 > Secure and Fast microVM for Serverless Computing
+> microVM
 
 * 解决overhead (对比VM,EC2),管理成本高
 * 事件驱动的场景(有事件，才需要计算，计算完成，释放资源)
@@ -46,8 +47,37 @@ tags: [k8s,kubernetes,serverless]
     * 不支持硬件直通？(passthrough)
     * 只支持 virtio net 和 virtio block
 
+* Open-source virtualization technology(microVM)
+* Security and siolation of traditional VMs
+* Speed and density of containers
+* Low resource overhead
+
+* security (基于VM)
+* Startup time ()
+* Utilization
+
+* Scale and efficiency (< 5MB memory)
+* Firecracker-Containerd
+* light as container, secure as VM
+
+### 设计原则
+* Multi-tenant 多租户
+* 任意的vCPU和内存组合
+* 可超售 oversubscription permissible
+* 硬件是他的唯一限制(不会因为VMM占用资源太多？？)
+
+### 使用场景
+* AWS Lambda
+* 快速启动
+* 高密度部署
+
+### 其他
+* Kata Containers, Weave FireKube 都集成了FireCracker
+* Unik
+* OSv
 
 
 
 ## links
 [Secure and Fast microVM for Serverless Computing](https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/)
+[AWS re:Inforce 2019: Firecracker: Secure and Fast microVMs for Serverless Computing (SEP316)](https://www.youtube.com/watch?v=jUeQAQkQpXU)
