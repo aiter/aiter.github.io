@@ -11,8 +11,15 @@ tags: [vm,kubernetes,container]
 ## keywords
 * secure container
 * lightweight VM
-* isolation
+* workload isolation
 * supports multiple hypervisors : QEMU, NEMU, Firecracker
+
+## 优势
+同时拥有
+* 容器的轻量
+* 虚拟机的安全隔离
+
+* 支持kubernets
 
 <img src="/image/kata-containers.png" />
 
