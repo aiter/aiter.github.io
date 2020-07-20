@@ -33,14 +33,14 @@ tags: [search,vector]
 
 ## 向量检索方法
 > 如何找到相关的doc(召回，把所有的doc都召回，也是一种方法）
-* BF Brute Force。这个就是把所有召回，适合小数据量
+* BF 暴力 Brute Force。这个就是把所有召回，适合小数据量
 * KD-Tree  适合维度比较小的场景
-* HC Hierarchical Clustering 分层、聚类
-* HNSW Hierarchical Navigable Small World
-* PQ Product Quantization
-* KNN Graph
-* QGraph Quantization Graph
-* LSH
+* HC 分层聚类 Hierarchical Clustering 
+* HNSW 分层的可导航小世界 Hierarchical Navigable Small World
+* PQ 乘积量化 Product Quantization 
+* KNN 近邻图 Graph
+* QGraph 量化图 Quantization Graph
+* LSH 局部敏感哈希 Locality sensitive hashing
 
 
 ## 相关项目
