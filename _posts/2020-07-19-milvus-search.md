@@ -9,7 +9,9 @@ tags: [search,vector]
 {% include codepiano/setup %}
 
 ## What is Milvus
-> * vector similarity search engine 
+> [overview](https://www.milvus.io/docs/overview.md)
+> 
+> * vector similarity search engine, 向量相似度搜索引擎 
 > * vector index libraries
 >   * Faiss
 >   * NMSLIB
@@ -45,5 +47,10 @@ tags: [search,vector]
 
 ## 相关项目
 [faiss](https://github.com/facebookresearch/faiss)
+* search time
+* search quality
+* memory used per index vector
+* training time
+* need for external data for unsupervised training
 [nmslib](https://github.com/nmslib/hnswlib)
 [Nearest neighbor search-NNS](https://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximate_nearest_neighbor)
