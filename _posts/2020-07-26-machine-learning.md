@@ -98,3 +98,16 @@ tags: [ai,ml]
 ## 计算机视觉
 
 ## 语音交互
+
+
+
+## BM25
+* 单词和目标文档的相关性   WD
+* 单词和查询关键词的相关性  WQ
+* 单词的权重部分   WT
+
+WD*WQ*WT 
+
+### BM25变种
+* BM25F  F=field
+* BM25 + PageRank
