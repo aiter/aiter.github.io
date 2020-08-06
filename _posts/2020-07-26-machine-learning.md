@@ -116,6 +116,10 @@ tags: [ai,ml]
 * 有模型学习（Model-Based）
 
 ## 自然语言处理
+* 词性标注 - Part of speech
+* Word2vec
+* 命名实体识别 - Named-entity recognition | NER
+* 自然语言理解 - NLU | NLI
 
 ## 计算机视觉
 
