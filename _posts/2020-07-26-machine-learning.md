@@ -122,8 +122,10 @@ tags: [ai,ml]
 * 自然语言理解 - NLU | NLI
 
 ## 计算机视觉
+* CNN
 
 ## 语音交互
+* LSTM
 
 
 
