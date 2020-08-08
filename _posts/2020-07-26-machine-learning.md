@@ -9,6 +9,28 @@ tags: [ai,ml]
 {% include codepiano/setup %}
 
 ## AI算法
+> AI > 机器学习  > 深度学习
+
+### 深度学习
+* 胶囊神经网络
+* Attention 机制
+* 深度学习 - Deep learning | DL
+* 长短期记忆网络 - Long short-term memory | LSTM
+* 生成对抗网络 - Generative Adversarial Networks | GAN
+* 循环神经网络 - Recurrent Neural Network | RNN
+* 卷积神经网络 - CNN
+* 强化学习-Reinforcement learning | RL
+
+### 机器学习
+* 线性回归 - linear regression
+* 逻辑回归 - Logistic regression
+* 朴素贝叶斯 - Naive Bayes classifier | NBC
+* Adaboost 算法
+* 随机森林 - Random forest
+* 支持向量机 - Support Vector Machine | SVM
+* 决策树 - Decision tree
+* K均值聚类（k-means clustering）
+* 集成学习（Ensemble Learning）
 
 ## 基础科普
 * 深度学习、神经网络、机器学习、人工智能的关系
