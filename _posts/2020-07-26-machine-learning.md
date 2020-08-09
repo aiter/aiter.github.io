@@ -161,3 +161,8 @@ WD*WQ*WT
 ### BM25变种
 * BM25F  F=field
 * BM25 + PageRank
+
+## 语言模型
+> 核心思想：希望用概率模型(Probabilistic Model)来描述查询关键字和目标文档之间的关系。
+> 最简单的类型：
+> * 查询关键字似然检索模型(Query Likelihood Retrieval Model)。简单来说，一个语言模型就是一个针对词汇表的概率分布。
