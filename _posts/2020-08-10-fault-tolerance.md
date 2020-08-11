@@ -12,6 +12,9 @@ tags: [service,fault]
 > * latency tolerance
 > * fault tolerance
 
+## 流程图
+<img src="/image/hystrix-command-flow-chart.png" />
+
 
 ## links
 [Hystrix](https://github.com/Netflix/Hystrix/wiki)
