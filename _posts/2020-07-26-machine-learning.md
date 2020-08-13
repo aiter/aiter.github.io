@@ -11,6 +11,10 @@ tags: [ai,ml]
 ## AI算法
 > AI > 机器学习  > 深度学习
 
+* supervised
+* Unsupervised
+* Reinforcement learning
+
 ### 深度学习
 * 胶囊神经网络
 * Attention 机制
