@@ -21,12 +21,26 @@ tags: [java,jvm,gc]
 
 ## 常用垃圾收集器
 * Serial
+
 * ParNew
 * Parallel Scavenge
 * Serial Old
 * Parallel Old(Parallel Scavenge Old) 
+> 多数jdk8的默认GC，也有将默认设置为CMS的，所以最好明确设置
+
+```
+-XX:+UseParallelGC 
+```
+
 * CMS
+>  CMS(老年代)+ParNew(新生代)，java9不建议使用
+
+```
+-XX:+UseConcMarkSweepGC -XX:+UseParNewGC
+```
+
 * G1
+> 建议堆大小>6GB时使用
 
 
 
