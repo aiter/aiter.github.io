@@ -21,9 +21,14 @@ tags: [java,jvm,gc]
 
 ## 常用垃圾收集器
 * Serial
+> 单线程
 
 * ParNew
+> 新生代，多线程
+
 * Parallel Scavenge
+> 新生代，多线程，主要考虑吞吐量。用户线程时间/总时间
+
 * Serial Old
 * Parallel Old(Parallel Scavenge Old) 
 > 多数jdk8的默认GC，也有将默认设置为CMS的，所以最好明确设置
