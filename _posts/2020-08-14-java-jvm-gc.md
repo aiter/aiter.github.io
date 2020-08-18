@@ -24,17 +24,25 @@ tags: [java,jvm,gc]
 > 单线程
 
 * ParNew
-> 新生代，多线程
+> 新生代(young generation)，多线程(parallel threads)
 
 * Parallel Scavenge
-> 新生代，多线程，主要考虑吞吐量。用户线程时间/总时间
+> 新生代，多线程，主要考虑吞吐量(throughput collector)。用户线程时间/总时间
 
 * Serial Old
 * Parallel Old(Parallel Scavenge Old) 
-> 多数jdk8的默认GC，也有将默认设置为CMS的，所以最好明确设置
+> * 多数jdk8的默认GC，也有将默认设置为CMS的，所以最好明确设置
+> * the parallel garbage collector for full GCs
 
 ```
 -XX:+UseParallelGC 
+当使用ParallelGC时，可以使用-XX:+UseNUMA
+```
+
+* 设置参数
+```
+-XX:MaxGCPauseMillis=time  Sets a target for the maximum GC pause time (in milliseconds).JVM会努力
+达到，但是不一定能达到
 ```
 
 * CMS
