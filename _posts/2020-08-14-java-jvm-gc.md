@@ -70,5 +70,11 @@ tags: [java,jvm,gc]
 * G1
 > 建议堆大小>6GB时使用
 
+* Region
+* 初始标记 Initial Marking
+* 并发标记 Concurrent Marking
+* 最终标记 Final Marking
+* 筛选回收 Live Data Counting and Evacuation
+
 
 
