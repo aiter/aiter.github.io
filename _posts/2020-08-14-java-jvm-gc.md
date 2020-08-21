@@ -70,7 +70,7 @@ tags: [java,jvm,gc]
 * G1
 > 建议堆大小>6GB时使用
 
-* Region
+* Region。没有明确的新生代、老年代，逻辑的区分
 * 初始标记 Initial Marking
 * 并发标记 Concurrent Marking
 * 最终标记 Final Marking
