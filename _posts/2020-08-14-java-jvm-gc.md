@@ -8,6 +8,8 @@ tags: [java,jvm,gc]
 ---
 {% include codepiano/setup %}
 
+<img src="/image/java_jvm.png" /
+
 ## gc算法
 
 * 引用计数法
