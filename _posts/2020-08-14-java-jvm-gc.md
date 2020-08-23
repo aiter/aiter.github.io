@@ -79,4 +79,5 @@ tags: [java,jvm,gc]
 * 筛选回收 Live Data Counting and Evacuation
 
 
-
+## links
+[Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
