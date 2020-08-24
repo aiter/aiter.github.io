@@ -86,6 +86,14 @@ tags: [ai,ml]
 面——矩阵（matrix）
 体——张量（tensor）
 
+### 分类模型评估指标
+* 准确率 Accuracy
+* 精准率 Precision
+* 召回率 Recall
+* F1 F1= (2*Precision*Recall)/(Precision+Recall)
+* ROC曲线 （Receiver Operating Characteristic）
+* AUC曲线
+
 ### 线性回归
 ```
              无监督学习
@@ -170,3 +178,6 @@ WD*WQ*WT
 > 核心思想：希望用概率模型(Probabilistic Model)来描述查询关键字和目标文档之间的关系。
 > 最简单的类型：
 > * 查询关键字似然检索模型(Query Likelihood Retrieval Model)。简单来说，一个语言模型就是一个针对词汇表的概率分布。
+
+## links
+[分类模型评估指标](https://easyai.tech/ai-definition/accuracy-precision-recall-f1-roc-auc/)
