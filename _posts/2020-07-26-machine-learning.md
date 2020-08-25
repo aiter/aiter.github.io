@@ -87,9 +87,16 @@ tags: [ai,ml]
 体——张量（tensor）
 
 ### 分类模型评估指标
-* 准确率 Accuracy
-* 精准率 Precision
-* 召回率 Recall
+> * T=机器判断对不对    T=对，F=不对
+> * P=机器判断是不是    P=是，N=不是
+> * TP=对/是       判断是对的，是=1 
+> * FP=不对/是     判断是不对的，
+> * FN=不对/不是
+> * TN=对/不是
+
+* 准确率 Accuracy = (TP + TN)/(TP+TN+FP+FN)   判断的对不对(是和不是都判断对了)
+* 精准率 Precision = TP/(TP+FP)               判断对的比例(机器认为是正例，但是有不对的)
+* 召回率 Recall = TP/(TP+FN)                  判断对的，占本身是的比例，还有一部分也是，但是判断错F了成N
 * F1 F1= (2*Precision*Recall)/(Precision+Recall)
 * ROC曲线 （Receiver Operating Characteristic）
 * AUC曲线
