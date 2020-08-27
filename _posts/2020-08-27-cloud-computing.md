@@ -12,3 +12,8 @@ tags: [cloud]
 ### IaaS (Infrastructure as a Service)
 ### PaaS (Platform as a Service)
 ### SaaS (Software as a Service)
+
+## Benefits
+* 灵活
+* 弹性
+* 节约成本
