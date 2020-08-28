@@ -17,3 +17,9 @@ tags: [cloud]
 * 灵活
 * 弹性
 * 节约成本
+
+##CDN
+* Akamai
+* google CDN
+* microsoft azure CDN
+* AWS CDN
