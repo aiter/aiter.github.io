@@ -18,8 +18,15 @@ tags: [cloud]
 * 弹性
 * 节约成本
 
-##CDN
+## CDN
 * Akamai
 * google CDN
 * microsoft azure CDN
 * AWS CDN
+
+## Compute
+* CPU
+* GPU
+* FPGA
+* TPU
+* ASIC
