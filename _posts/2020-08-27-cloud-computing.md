@@ -8,6 +8,16 @@ tags: [cloud]
 ---
 {% include codepiano/setup %}
 
+## 
+* enterprise cloud (single organization)
+* public cloud (man organizations)
+
+## History
+* "cloud computing" appeared as eayly as 1996.
+* 2006 AWS的EC2(Elastic Compute Cloud) 
+* 1960s, time-sharing(时分)
+
+
 ## Types
 ### IaaS (Infrastructure as a Service)
 ### PaaS (Platform as a Service)
