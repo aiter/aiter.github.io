@@ -40,3 +40,9 @@ tags: [cloud]
 * FPGA
 * TPU
 * ASIC
+
+
+## OpenStack
+* nove(Compute)
+* scheduler
+    *  [Scheduler Evolution](https://docs.openstack.org/nova/rocky/reference/scheduler-evolution.html)  
