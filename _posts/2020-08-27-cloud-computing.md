@@ -46,3 +46,11 @@ tags: [cloud]
 * nove(Compute)
 * scheduler
     *  [Scheduler Evolution](https://docs.openstack.org/nova/rocky/reference/scheduler-evolution.html)  
+
+## 
+### NP-hard
+* task scheduling 
+* packing 
+* placement
+
+> Heuristic techniques 启发式常用于一种近似方式解决优化问题。
