@@ -54,3 +54,8 @@ tags: [cloud]
 * placement
 
 > Heuristic techniques 启发式常用于一种近似方式解决优化问题。
+> * is not guaranteed to be optimal、perfect、rational
+> * immediate、short-term goal、approximation
+> * derived from previous experiences with similar problems
+> * readily accessible 易接近的
+> * though loosely applicable 尽管松散的适用
