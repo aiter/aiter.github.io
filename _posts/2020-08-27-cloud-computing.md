@@ -46,6 +46,9 @@ tags: [cloud]
 * nove(Compute)
 * scheduler
     *  [Scheduler Evolution](https://docs.openstack.org/nova/rocky/reference/scheduler-evolution.html)  
+    * [Filter Scheduler](https://docs.openstack.org/nova/rocky/user/filter-scheduler.html)
+        * filtering:一个过滤器集合
+        * weighting:排序
 
 ## 
 ### NP-hard
