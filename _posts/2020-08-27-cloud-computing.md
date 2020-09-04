@@ -62,3 +62,6 @@ tags: [cloud]
 > * derived from previous experiences with similar problems
 > * readily accessible 易接近的
 > * though loosely applicable 尽管松散的适用
+
+### computer CPU  architecture
+* Branch predictor(分支预测) : 尝试猜测程序执行的逻辑，主要目的还是提速，让cpu的指令流水线(instruction pipeline)更快的执行
