@@ -65,3 +65,8 @@ tags: [cloud]
 
 ### computer CPU  architecture
 * Branch predictor(分支预测) : 尝试猜测程序执行的逻辑，主要目的还是提速，让cpu的指令流水线(instruction pipeline)更快的执行
+* Static branch prediction。编译时就确定。
+* Dynamic branch prediction。运行时确定。
+* Random branch prediction
+* Next line prediction
+* One-level branch prediction
