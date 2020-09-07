@@ -84,3 +84,11 @@ tags: [cloud]
 * Turn Around Time = Completion Time – Arrival Time
 * Waiting Time(W.T): Time Difference between turn around time and burst time.
 * Waiting Time = Turn Around Time – Burst Time
+
+### Objectives of Process Scheduling Algorithm
+* Max CPU utilization [Keep CPU as busy as possible]
+* Fair allocation of CPU.
+* Max throughput [Number of processes that complete their execution per time unit]
+* Min turn around time [Time taken by a process to finish execution]
+* Min waiting time [Time a process waits in ready queue]
+* Min response time [Time when a process produces first response]
