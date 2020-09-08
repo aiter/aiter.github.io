@@ -92,3 +92,15 @@ tags: [cloud]
 * Min turn around time [Time taken by a process to finish execution]
 * Min waiting time [Time a process waits in ready queue]
 * Min response time [Time when a process produces first response]
+
+### Scheduling Algorithms
+* First Come First Serve (FCFS)
+* Shortest Job First (SJF)
+* Longest Job First (LJF)
+* Shortest Remaining Time First (SRTF)
+* Longest Remaining Time First (LRTF)
+* Round Robin Scheduling [the time-sharing system]
+* Priority Based scheduling (Non-Preemptive)
+* Highest Response Ratio Next (HRRN)
+* Multilevel Queue Scheduling
+* Multi level Feedback Queue Scheduling
