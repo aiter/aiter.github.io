@@ -43,12 +43,16 @@ tags: [cloud]
 
 
 ## OpenStack
-* nove(Compute)
+* nova(Compute)
 * scheduler
     *  [Scheduler Evolution](https://docs.openstack.org/nova/rocky/reference/scheduler-evolution.html)  
     * [Filter Scheduler](https://docs.openstack.org/nova/rocky/user/filter-scheduler.html)
         * filtering:一个过滤器集合
         * weighting:排序
+    * nova-scheduler是nova(compute)的一部分
+* placement: 库存，提供API
+* scheduler提供调度的服务器和备选服务器 https://docs.openstack.org/nova/rocky/reference/scheduling.html
+
 
 ## 
 ### NP-hard
