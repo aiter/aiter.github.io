@@ -52,6 +52,10 @@ tags: [cloud]
     * nova-scheduler是nova(compute)的一部分
 * placement: 库存，提供API
 * scheduler提供调度的服务器和备选服务器 https://docs.openstack.org/nova/rocky/reference/scheduling.html
+* 组件(componets)关系
+  * nova-api  ----RPC--->  super conductor
+  * 还有cell conductors/cell-local conductors
+  * super conductor 发送请求给 scheduler（不是cell conductors）
 
 
 ## 
