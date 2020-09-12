@@ -56,6 +56,8 @@ tags: [cloud]
   * nova-api  ----RPC--->  super conductor
   * 还有cell conductors/cell-local conductors
   * super conductor 发送请求给 scheduler（不是cell conductors）
+  * conductor 调度完成后，再发送生产请求到 nova-compute
+  * 生产包含：网络port、磁盘、虚拟机
 [Walkthrough of a typical Nova boot request](https://github.com/jaypipes/articles/blob/master/openstack/walkthrough-launch-instance-request.md#call-scheduler-select-destinations)
 
 
