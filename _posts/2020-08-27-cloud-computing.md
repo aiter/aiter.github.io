@@ -51,6 +51,13 @@ tags: [cloud]
         * weighting:排序
     * nova-scheduler是nova(compute)的一部分
 * placement: 库存，提供API
+    * resource provider inventories and usages. tracks the inventory and usage of each provider
+    * compute node
+    * shared storage pool
+    *  IP allocation pool
+    * 有标准的DISK/MEMORY/VCPU，也可以自定义分类(custom resource classes )
+    * nova-compute(注册、删除、管理) 和 nova-scheduler(调度)会和placement交互
+
 * scheduler提供调度的服务器和备选服务器 https://docs.openstack.org/nova/rocky/reference/scheduling.html
 * 组件(componets)关系
   * nova-api  ----RPC--->  super conductor
