@@ -50,6 +50,9 @@ tags: [cloud]
         * filtering:一个过滤器集合
         * weighting:排序
     * nova-scheduler是nova(compute)的一部分
+    * nova使用scheduler来决定怎么分发(dispatch)资源的请求。VM在那一台物理机上运行。
+    * 过滤器(filters)
+        * 是否在指定的AZ、CPU/Memory/disk/architecture/hypervisor/vm mode/亲和性(Affinity)/反亲和性(AntiAffinity)
 * placement: 库存，提供API
     * resource provider inventories and usages. tracks the inventory and usage of each provider
     * compute node
@@ -67,6 +70,14 @@ tags: [cloud]
   * 生产包含：网络port、磁盘、虚拟机
 [Walkthrough of a typical Nova boot request](https://github.com/jaypipes/articles/blob/master/openstack/walkthrough-launch-instance-request.md#call-scheduler-select-destinations)
 
+### 组件关系
+* Horizon(Dashboard) / OpenAPI 对外界面
+* keystone  认证
+* nova 计算API、实例管理API  （计算）
+* swift  对象存储    （存储-对象）
+* cinder 块存储       (存储-块)
+* glance 镜像服务      (镜像)
+* neutron 网络        (网络)
 
 ## 
 ### NP-hard
