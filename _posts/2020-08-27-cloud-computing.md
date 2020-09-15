@@ -133,3 +133,7 @@ tags: [cloud]
 * Highest Response Ratio Next (HRRN)
 * Multilevel Queue Scheduling
 * Multi level Feedback Queue Scheduling
+
+### References
+[1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
+[2] [Cloud Computing Resource Scheduling and a Survey of Its Evolutionary Approaches](https://core.ac.uk/download/pdf/296173442.pdf)
