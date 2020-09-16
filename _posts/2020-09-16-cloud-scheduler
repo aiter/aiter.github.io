@@ -1,0 +1,18 @@
+---
+layout: post
+keywords: scheduler, placement 
+description: cloud scheduler
+title: "cloud scheduler"
+categories: [cloud]
+tags: [cloud]
+---
+{% include codepiano/setup %}
+
+### keywords
+* scheduler
+* placement
+* allocation
+
+
+### references
+* dynamic placement for clustered web applications
