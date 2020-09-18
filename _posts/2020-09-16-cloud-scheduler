@@ -16,6 +16,8 @@ tags: [cloud]
 
 ### references
 * dynamic placement for clustered web applications
+* Entropy- a Consolidation Manager for Clusters
+* A scalable application placement controller for enterprise data centers
 
 
 决定每个应用启动多少实例和放在那台机器上
