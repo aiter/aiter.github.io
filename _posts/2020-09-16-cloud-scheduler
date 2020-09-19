@@ -32,4 +32,35 @@ tags: [cloud]
   > * approximation algorithms 近似算法
   [6] A. Karve, T. Kimbrel, G. Pacifici, M. Spreitzer,
 M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Clustered Web Applications. In the International World Wide Web Conference (WWW), May 2006.
-    [8] T. Kimbrel, M. Steinder, M. Sviridenko, and A. N. Tantawi. Dynamic Application Placement Under Service and Memory Constraints. In International Workshop on Efficient and Experimental Algorithms, 2005.
+  [8] T. Kimbrel, M. Steinder, M. Sviridenko, and A. N. Tantawi. Dynamic Application Placement Under Service and Memory Constraints. In International Workshop on Efficient and Experimental Algorithms, 2005.
+
+#### Objective Virtual Machine Placement in Virtualized Data Center Environments
+ * In this paper, a two-level control system is proposed to manage the mappings of workloads to VMs and VMs to physical resources.
+ * a multi-objective optimization problem
+  * minimizing total resource wastage  资源最小浪费
+  * power consumption  电量消耗少
+  * thermal dissipation costs 热能消耗(需要冷却系统来保证机房在安全温度)
+* 算法
+  * An improved genetic algorithm (改进的遗传算法) with fuzzy multi-objective evaluation(模糊的多目标评估？)
+  * 目的是：
+    * 高效的搜索大的解空间
+    * 便于兼备优化的冲突目标
+  * 和4个知名的装箱算法(bin-packing)/2个单目标优化方法的比较，从如下几个方面比较
+    * power-consumption(电力消耗)
+    * thermal-dissipation models
+    * good performance
+    * scalability
+    * robustness
+  * 优势
+    * 当其他的算法无法做到时，该算法能寻找到优化冲突目标存在的均衡的解
+* 使用场景
+  * the problem of initial VM placement/VM的初始调度(where a number of requests for VMs are to be placed to the available physical resources.  )
+  * 机房刚开始运营、重置、空置后重新启用。有一批VM需求，批量来放置。
+  * 一次性放置
+  * 尝试搜索最优解
+
+* 其他场景
+  * Dynamic VM placement，动态放置(迁移)
+
+  #### 虚拟化的收益
+  > 降低成本，更少的机器、更少的电力消耗，更少的冷却系统，物理空间等
