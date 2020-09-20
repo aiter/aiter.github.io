@@ -58,6 +58,12 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * 机房刚开始运营、重置、空置后重新启用。有一批VM需求，批量来放置。
   * 一次性放置
   * 尝试搜索最优解
+* 优化目标
+  * 高效实用多维度资源(CPU/Memory/disk...)
+  * 避免热点(hot spots)
+  * 减少能量(电能)消耗
+  * [不是该论文的目标]在可接受的时间里，找到一个近视最优解(Intelligent search)
+  * 目标：搜索全局最优解，模糊逻辑(fuzzy-logic)的评估方法来综合不同的优化目标。？？
 
 * 其他场景
   * Dynamic VM placement，动态放置(迁移)
