@@ -68,5 +68,43 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 * 其他场景
   * Dynamic VM placement，动态放置(迁移)
 
+### 章节详细记录
+* [2]background
+* [3]framework
+* [4]描述问题和提议的解法
+* [5]实验结果、分析算法的性能
+* [6]相关工作
+* [7]总结论文
+
+[2] background
+* combinatorial optimization
+* multi-objective optimization and fuzzy logic
+
+* combinatorial optimization（组合优化） and genetic algorithms（遗传算法）
+ * NP-hard:scheduling/packing/placement
+ * Heuristic techniques(启发式算法/方法/技术)，求解近似解      solving optimization problems in an approximate way / global optimal solutions
+ * genetic algorithms(遗传算法),能很好的解决 combinatorial problem(组合问题)
+
+[4]
+* Grouping Genetic Algorithm
+* ranking-crossover, 不直接使用随机的crossover
+
   #### 虚拟化的收益
   > 降低成本，更少的机器、更少的电力消耗，更少的冷却系统，物理空间等
+
+  ### 启发法(Heuristic techniques)
+   * 不保证最优、完美、最合理
+   * 足够快速、短期目标、近似解法
+   * 搜索最优解释不可能或者不可实现(NP hard),启发法可以用来加速搜索满意的解
+   * 
+
+### NP hard
+  > 很多组合问题(combinatorial problems)被分类为NP-hard
+  > * 调度（scheduling）
+  > * 装箱(bin packing)
+  > * 放置(placement)
+  > 遗传算法(genetic algorithms)常被用来解决组合问题
+
+  ### 
+  * approximate global optimum 近似全局最优
+  * precise local optimum 精确的局部最优
