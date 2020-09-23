@@ -108,3 +108,15 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   ### 
   * approximate global optimum 近似全局最优
   * precise local optimum 精确的局部最优
+
+  《A Multi-objective Approach to Virtual Machine Management in Datacenters》
+  * dynamic VM placement（动态放置，二次迁移）
+    * ThermalEmergency
+    * Resource Contention
+    * Low Energy Efficiency
+
+
+  * Condition Detection  （trigger a VM-migration） 
+    * 怎么检测准确，避免无效的迁移
+  * Virtual Machine Selection (选择要迁移的VM)
+    * 
