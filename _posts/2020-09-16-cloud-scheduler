@@ -119,4 +119,23 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Condition Detection  （trigger a VM-migration） 
     * 怎么检测准确，避免无效的迁移
   * Virtual Machine Selection (选择要迁移的VM)
-    * 
+    * Thermal Emergency
+    * Resource Contention 
+    * Low Energy Efficiency
+  * Host Selection(迁移的目标机器)
+    * Temperature
+    * cooling cost
+    * Power
+    * Performance
+
+ * 其他相关工作
+    * VMware’s Distributed Resource Scheduler (DRS) 
+      * CPU & Memory
+      * 不考虑温度、电力消耗
+    * VMware Distributed Power Management (DPM) 
+      * 物理机使用的数量
+      * 关掉不使用的物理机
+      * 不考虑： 资源竞争、热效应、VM迁移的影响
+
+《Dynamic Placement for Clustered Web Applications》
+  * use clustering technology to provide scalability, high availability and load balancing.
