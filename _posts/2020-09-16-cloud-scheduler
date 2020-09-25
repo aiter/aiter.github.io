@@ -139,3 +139,8 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 
 《Dynamic Placement for Clustered Web Applications》
   * use clustering technology to provide scalability, high availability and load balancing.
+
+  * Placement Algorithm
+    * Residual placement
+    * Incremental placement
+    * Rebalancing placement
