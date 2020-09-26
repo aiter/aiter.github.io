@@ -144,3 +144,6 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * Residual placement
     * Incremental placement
     * Rebalancing placement
+
+  * 评估方法  Evaluation criterion
+    * Gini index
