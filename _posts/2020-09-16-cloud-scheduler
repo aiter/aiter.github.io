@@ -147,3 +147,14 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 
   * 评估方法  Evaluation criterion
     * Gini index
+
+《A scalable application placement controller for enterprise data centers》
+* within 30 seconds
+* solutions for hard placement problems with thousands of machines and thou- sands of applications
+* to maximize the total satisfied application demand
+* to minimize the number of application starts and stops
+* to balance the load across machines.
+* 和 state-of-the-art algorithms 对比。
+  * 提速 134 倍
+  * 减少97%的开、停机
+  * 满意度提升25% 
