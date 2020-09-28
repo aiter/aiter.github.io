@@ -158,3 +158,11 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * 提速 134 倍
   * 减少97%的开、停机
   * 满意度提升25% 
+* request router  路由
+  * admission control 访问控制
+  * flow control 流量控制
+  * load balancing 负载均衡
+* 抽象为：多项限制的多背包问题。多个优化目标
+  * 满足最大量的需求
+  * 尽可能少的开、停机
+  * 均衡负载
