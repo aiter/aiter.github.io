@@ -166,3 +166,8 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * 满足最大量的需求
   * 尽可能少的开、停机
   * 均衡负载
+
+* 动态的启动、停止应用
+
+* bin packing 装箱问题
+* multiple knapsack 多重选择背包问题
