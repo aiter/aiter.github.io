@@ -171,3 +171,17 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 
 * bin packing 装箱问题
 * multiple knapsack 多重选择背包问题
+
+* 流程
+  * 算出一个放置方案
+  * 执行器，执行停止、启动任务
+  * 定时循环
+
+* 假设
+  * 应用没有请求量，也会消耗对应的内存
+  * 内存的消耗，memory consumption is often related to prior application usage rather than its current load due to data caching and delayed garbage collection.
+  * 
+
+* 简化
+  * 只考虑CPU和内存，当然也可以处理其他的资源
+  * 
