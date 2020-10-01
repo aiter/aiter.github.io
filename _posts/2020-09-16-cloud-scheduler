@@ -166,6 +166,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * 满足最大量的需求
   * 尽可能少的开、停机
   * 均衡负载
+  * This problem is a variant of the Class Constrained Multiple- Knapsack problem
 
 * 动态的启动、停止应用
 
@@ -185,3 +186,12 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 * 简化
   * 只考虑CPU和内存，当然也可以处理其他的资源
   * 
+
+* placement algorithm 具体的放置算法
+  * 定时循环优化放置问题
+  * 所有的应用都满足，那么就结束
+  * 有不满足的，就停止其他不需要的，然后启动需要新需求的
+  * 实例运行状态分类
+    * idle 空闲
+    * underutilized 不完全使用
+    * fully utilized  完全使用
