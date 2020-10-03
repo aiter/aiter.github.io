@@ -200,3 +200,5 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * 只考虑单独机器，放置可能不合理，所以：执行多轮，前面一轮停掉的实例资源，就可以分配给后面一轮的需求
     * 考虑CPU/Memory的比例
     * 减少变更(如：pinned实例，就不会变动)
+ * Proof
+    * contradiction 使用反正
