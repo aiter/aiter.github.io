@@ -205,3 +205,6 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 
 * The placement-changing 
   * increase the total satisfied application demand
+
+  * 第一尽可能多的满足实例的放置需求
+  * 满足的数量一样的话，那就是尽可能少变动实例(不要停止、开启)
