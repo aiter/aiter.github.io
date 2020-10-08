@@ -214,3 +214,10 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * execution time
     * the number of placement changes
     * the demand satisfaction
+  * 可以支持上千的机器和实例(应用)
+  * 实例(应用)的变化也很少(相比其他的算法)
+  * 三方面的提高
+    * 执行时间 （the strategy that does place- ment changes to machines one by one in an isolated fashion.）
+    * 应用的需求满意度 （its load-shifting heuristics and the strategy that first does placement changes to the ma- chines with a high CPU-memory ratio. ）
+    * 应用的变化数量 （Two heuristics in the new algorithm help reduce placement changes：application instance pinning and machine isola- tion.）
+
