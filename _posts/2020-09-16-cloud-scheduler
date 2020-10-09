@@ -140,7 +140,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 《Dynamic Placement for Clustered Web Applications》
   * use clustering technology to provide scalability, high availability and load balancing.
 
-  * Placement Algorithm
+  * Placement Algorithm 
     * Residual placement
     * Incremental placement
     * Rebalancing placement
@@ -221,3 +221,29 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * 应用的需求满意度 （its load-shifting heuristics and the strategy that first does placement changes to the ma- chines with a high CPU-memory ratio. ）
     * 应用的变化数量 （Two heuristics in the new algorithm help reduce placement changes：application instance pinning and machine isola- tion.）
 
+《Large-scale cluster management at Google with Borg》
+* long-running services that should “never” go down(e.g., Gmail, Google Docs)
+* for internal infrastructure services (e.g., BigTable)
+
+* 很多系统都是建在Borg之上的
+  * MapReduce system
+  * FlumeJava
+  * Millwheel
+  * Pregel
+  * GFS/CFS, BigTable
+  * Megastore
+
+* 分为两类系统
+  * production（prod）
+  * non-production(non-prod)
+
+* 中等规模
+  * 10k machines
+
+* 限制/约束 分强、弱(hard/soft)
+
+* 相关工作
+  * Facebook’s Tupperware
+  * Twitter's Aurora
+  * Microsoft's Autopilot
+  * Microsoft’s Apollo
