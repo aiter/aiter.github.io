@@ -247,3 +247,11 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Twitter's Aurora
   * Microsoft's Autopilot
   * Microsoft’s Apollo
+
+《Borg, Omega, and Kubernetes》
+
+* 经验教训
+  * Don’t make the container system manage port numbers
+  * Don’t just number containers: give them labels
+  * Be careful with ownership
+  * Don’t expose raw state
