@@ -249,6 +249,13 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Microsoft’s Apollo
 
 《Borg, Omega, and Kubernetes》
+> Borg 和 Kubernetes 介绍比较多。 Omega相对比较少
+> * container 管理系统
+
+* Borg-> Omega-> Kubernetes
+* Borg 
+  * long-running services
+  * batch jobs
 
 * 经验教训
   * Don’t make the container system manage port numbers
