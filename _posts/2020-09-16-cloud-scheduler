@@ -262,3 +262,23 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Don’t just number containers: give them labels
   * Be careful with ownership
   * Don’t expose raw state
+ 
+ 《An Overview of Openstack Architecture》
+ * modular & highly configurable architecture
+
+ * Computing
+  * Nova:
+  * Glance: Image Service
+* Networking
+  * Neutron: networking
+    * DHCP
+    * IP's
+    * VLAN's
+* Storing
+  * Swift:Openstack Object Storage
+  * Cinder:Openstack Block Storage & Cinder Volumes
+* Shared services
+  *Keystone: authentication
+  * Horizon：dashboard
+  * Ceilometer：configurable
+  * Advanced Message Queue Protocol：messaging
