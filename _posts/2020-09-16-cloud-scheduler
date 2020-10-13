@@ -282,3 +282,19 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Horizon：dashboard
   * Ceilometer：configurable
   * Advanced Message Queue Protocol：messaging
+
+  《Dynamic Resource Allocation with Management Objectives— Implementation for an OpenStack Cloud》
+  * a set of controllers that allocate resources to applications
+  * cooperate to achieve an activated management objective
+  * Management objectives define the strategies according to which resources are allocated to applications.
+    * balanced load objective
+    * minimizing power consumption
+    * fair resource allocation
+    * 【】want to satisfy several management objectives at the same time
+    * an optimization problem.
+      * colocation constraint
+      * anti-colocation constraint
+
+* Related work
+  * VSphere’s resource management system is the Distributed Resource Scheduler (DRS) 
+  * Microsoft Sys- tems Center (MSC)
