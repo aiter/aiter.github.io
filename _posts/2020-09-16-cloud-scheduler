@@ -298,3 +298,9 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 * Related work
   * VSphere’s resource management system is the Distributed Resource Scheduler (DRS) 
   * Microsoft Sys- tems Center (MSC)
+
+  * OpenStack
+    * Nova
+      * Nova-scheduler
+      * placement
+      * migration
