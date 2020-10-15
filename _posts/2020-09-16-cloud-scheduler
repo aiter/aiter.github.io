@@ -301,6 +301,12 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 
   * OpenStack
     * Nova
-      * Nova-scheduler
-      * placement
+      * API(http)
+      * compute(Rpc)
+      * conductor(Rpc)
+      * Nova-scheduler(Rpc)
+        * 依赖placement
+      * Queue
+
+    * placement
       * migration
