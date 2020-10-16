@@ -306,7 +306,14 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
       * conductor(Rpc)
       * Nova-scheduler(Rpc)
         * 依赖placement
+        * 水平扩展能力和方案()
+        Both schedulers are able to scale horizontally, so for high-availability purposes, or for very large or high-schedule-frequency installations, 
+        you should consider running multiple instances of each scheduler. 
+        The schedulers all listen to the shared message queue, so no special load balancing is required.
       * Queue
 
     * placement
       * migration
+  
+  * 无状态(stateless) & 扩展(scaling)
+    [Nova](https://fuel-ccp.readthedocs.io/en/latest/design/ref_arch_100_nodes.html#openstack-compute-nova)
