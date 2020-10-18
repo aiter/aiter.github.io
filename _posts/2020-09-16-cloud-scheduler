@@ -324,3 +324,5 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   
   * 无状态(stateless) & 扩展(scaling)
     [Nova](https://fuel-ccp.readthedocs.io/en/latest/design/ref_arch_100_nodes.html#openstack-compute-nova)
+
+  * read nova source code https://www.programmersought.com/article/57984562657/
