@@ -300,7 +300,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Microsoft Sys- tems Center (MSC)
 
   * OpenStack
-    * Nova
+    * Nova 计算
       * API(http)
       * compute(Rpc)
       * conductor(Rpc)
@@ -315,6 +315,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * placement
       * migration
     * Cinder Scheduler
+    
     * Keystone: Authentication service.
     * Glance: mirroring service.
     * Nova: Computing services.
