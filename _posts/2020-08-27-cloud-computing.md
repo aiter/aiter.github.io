@@ -8,60 +8,65 @@ tags: [cloud]
 ---
 {% include codepiano/setup %}
 
-## 
 * enterprise cloud (single organization)
 * public cloud (man organizations)
 
 ## History
+
 * "cloud computing" appeared as eayly as 1996.
-* 2006 AWS的EC2(Elastic Compute Cloud) 
+* 2006 AWS的EC2(Elastic Compute Cloud)
 * 1960s, time-sharing(时分)
 
-
 ## Types
+
 ### IaaS (Infrastructure as a Service)
+
 ### PaaS (Platform as a Service)
+
 ### SaaS (Software as a Service)
 
 ## Benefits
+
 * 灵活
 * 弹性
 * 节约成本
 
 ## CDN
+
 * Akamai
 * google CDN
 * microsoft azure CDN
 * AWS CDN
 
 ## Compute
+
 * CPU
 * GPU
 * FPGA
 * TPU
 * ASIC
 
-
 ## OpenStack
+
 * nova(Compute)
 * scheduler
-    *  [Scheduler Evolution](https://docs.openstack.org/nova/rocky/reference/scheduler-evolution.html)  
-    * [Filter Scheduler](https://docs.openstack.org/nova/rocky/user/filter-scheduler.html)
-        * filtering:一个过滤器集合
-        * weighting:排序
-    * nova-scheduler是nova(compute)的一部分
-    * nova使用scheduler来决定怎么分发(dispatch)资源的请求。VM在那一台物理机上运行。
-    * 过滤器(filters)
-        * 是否在指定的AZ、CPU/Memory/disk/architecture/hypervisor/vm mode/亲和性(Affinity)/反亲和性(AntiAffinity)
+  * [Scheduler Evolution](https://docs.openstack.org/nova/rocky/reference/scheduler-evolution.html)  
+  * [Filter Scheduler](https://docs.openstack.org/nova/rocky/user/filter-scheduler.html)
+    * filtering:一个过滤器集合
+    * weighting:排序
+  * nova-scheduler是nova(compute)的一部分
+  * nova使用scheduler来决定怎么分发(dispatch)资源的请求。VM在那一台物理机上运行。
+  * 过滤器(filters)
+    * 是否在指定的AZ、CPU/Memory/disk/architecture/hypervisor/vm mode/亲和性(Affinity)/反亲和性(AntiAffinity)
 * placement: 库存，提供API
-    * resource provider inventories and usages. tracks the inventory and usage of each provider
-    * compute node
-    * shared storage pool
-    *  IP allocation pool
-    * 有标准的DISK/MEMORY/VCPU，也可以自定义分类(custom resource classes )
-    * nova-compute(注册、删除、管理) 和 nova-scheduler(调度)会和placement交互
+  * resource provider inventories and usages. tracks the inventory and usage of each provider
+  * compute node
+  * shared storage pool
+  * IP allocation pool
+  * 有标准的DISK/MEMORY/VCPU，也可以自定义分类(custom resource classes )
+  * nova-compute(注册、删除、管理) 和 nova-scheduler(调度)会和placement交互
 
-* scheduler提供调度的服务器和备选服务器 https://docs.openstack.org/nova/rocky/reference/scheduling.html
+* scheduler提供调度的服务器和备选服务器 [link](https://docs.openstack.org/nova/rocky/reference/scheduling.html)
 * 组件(componets)关系
   * nova-api  ----RPC--->  super conductor
   * 还有cell conductors/cell-local conductors
@@ -71,6 +76,7 @@ tags: [cloud]
 [Walkthrough of a typical Nova boot request](https://github.com/jaypipes/articles/blob/master/openstack/walkthrough-launch-instance-request.md#call-scheduler-select-destinations)
 
 ### 组件关系
+
 * Horizon(Dashboard) / OpenAPI 对外界面
 * keystone  认证
 * nova 计算API、实例管理API  （计算）
@@ -80,13 +86,14 @@ tags: [cloud]
 * neutron 网络        (网络)
 * cells 可以部署更大的集群，每个cell是个独立的一组数据(相当于一个分片)。
 
-## 
 ### NP-hard
-* task scheduling 
-* packing 
+
+* task scheduling
+* packing
 * placement
 
 > Heuristic techniques 启发式常用于一种近似方式解决优化问题。
+>
 > * is not guaranteed to be optimal、perfect、rational
 > * immediate、short-term goal、approximation
 > * derived from previous experiences with similar problems
@@ -94,6 +101,7 @@ tags: [cloud]
 > * though loosely applicable 尽管松散的适用
 
 ### computer CPU  architecture
+
 * Branch predictor(分支预测) : 尝试猜测程序执行的逻辑，主要目的还是提速，让cpu的指令流水线(instruction pipeline)更快的执行
 * Static branch prediction。编译时就确定。
 * Dynamic branch prediction。运行时确定。
@@ -102,11 +110,13 @@ tags: [cloud]
 * One-level branch prediction
 
 ### process schedule in OS
-* Long Term or job scheduler 
-* Short term or CPU scheduler 
+
+* Long Term or job scheduler
+* Short term or CPU scheduler
 * Medium-term scheduler
 
 ### cpu schedule in OS
+
 * Arrival Time: Time at which the process arrives in the ready queue.
 * Completion Time: Time at which process completes its execution.
 * Burst Time: Time required by a process for CPU execution.
@@ -116,6 +126,7 @@ tags: [cloud]
 * Waiting Time = Turn Around Time – Burst Time
 
 ### Objectives of Process Scheduling Algorithm
+
 * Max CPU utilization [Keep CPU as busy as possible]
 * Fair allocation of CPU.
 * Max throughput [Number of processes that complete their execution per time unit]
@@ -124,6 +135,7 @@ tags: [cloud]
 * Min response time [Time when a process produces first response]
 
 ### Scheduling Algorithms
+
 * First Come First Serve (FCFS)
 * Shortest Job First (SJF)
 * Longest Job First (LJF)
@@ -136,5 +148,6 @@ tags: [cloud]
 * Multi level Feedback Queue Scheduling
 
 ### References
+
 [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
 [2] [Cloud Computing Resource Scheduling and a Survey of Its Evolutionary Approaches](https://core.ac.uk/download/pdf/296173442.pdf)
