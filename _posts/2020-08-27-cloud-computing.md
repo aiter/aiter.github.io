@@ -84,7 +84,9 @@ tags: [cloud]
 * cinder 块存储       (存储-块)
 * glance 镜像服务      (镜像)
 * neutron 网络        (网络)
-* cells 可以部署更大的集群，每个cell是个独立的一组数据(相当于一个分片)。
+* cells 可以部署更大的集群，每个cell是个独立的一组数据(相当于一个分片)。`It supports very large deployments.`
+
+> 将集群中的机器分组，分组就是cell，
 
 ### NP-hard
 
