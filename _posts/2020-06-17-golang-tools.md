@@ -52,3 +52,18 @@ $ go mod tidy
 ```
 $ go mod vendor
 ```
+
+## language
+
+### struct & interface
+
+* 用户自定义类型
+* 方法
+* 内置类型 & 引用类型
+* 接口
+* 嵌入类型(内部类型属性提升到外部类型)
+* public & private
+
+### goroutine
+
+golang使用逻辑的处理器概念。
