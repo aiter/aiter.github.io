@@ -15,3 +15,9 @@ tags: [github, community]
 * The third largest category is data, with 7% of users in 2016 and 10% of users in 2020.
 
 ## GitHub in education: serving the next generrattiion
+
+## TensorFlow and COVID communities
+
+* developers are the most common users in the TensorFlow and COVID communities
+
+## Community actions, patterns, and insights
