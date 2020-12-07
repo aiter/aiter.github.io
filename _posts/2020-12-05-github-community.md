@@ -21,3 +21,21 @@ tags: [github, community]
 * developers are the most common users in the TensorFlow and COVID communities
 
 ## Community actions, patterns, and insights
+
+## The Future of open source
+
+* 56M developers
+
+《Finding balance between work and play》
+
+## Executive summary
+
+* 34% more pull requests when teams automate workflows
+* 18% faster pull request merges when teams automate
+
+## Key findings
+
+* Samll pusll requests drive innovation and productivity.
+* Automation drives productivity gains and imporoves developer experience.
+* Open source is a greate escape when everyone s stuck at home
+* Developer activity highlights the importance of flexibility and personal solutions
