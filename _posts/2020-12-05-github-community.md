@@ -39,3 +39,10 @@ tags: [github, community]
 * Automation drives productivity gains and imporoves developer experience.
 * Open source is a greate escape when everyone s stuck at home
 * Developer activity highlights the importance of flexibility and personal solutions
+
+### Take action
+
+* Manage your energy.(working from home)
+* Be flexible to find unique solutions for the best outcomes.
+* Use automation and small pull requests to ship better code faster.
+* Embrace and support collaboration and open source.
