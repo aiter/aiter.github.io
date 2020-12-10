@@ -46,3 +46,5 @@ tags: [github, community]
 * Be flexible to find unique solutions for the best outcomes.
 * Use automation and small pull requests to ship better code faster.
 * Embrace and support collaboration and open source.
+
+### Developer activity
