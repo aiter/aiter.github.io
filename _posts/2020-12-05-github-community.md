@@ -48,3 +48,8 @@ tags: [github, community]
 * Embrace and support collaboration and open source.
 
 ### Developer activity
+
+* China's Golden Week
+* US Thanksgiving
+* Lunar New Year
+* Chinese Labour Day
