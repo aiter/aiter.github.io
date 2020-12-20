@@ -57,4 +57,6 @@ HMAC alongside AES (encrypt data)
 
 * 对称加密(symmetric key) & 非对称加密(asymmetric)
    * 对称：DES/AES/Blowfish/Twofish
-   * 非对称：RSA
+   * 非对称：RSA/DSA/ECDSA/ED25519
+
+* Difference between SALT and KEY. Encryption
