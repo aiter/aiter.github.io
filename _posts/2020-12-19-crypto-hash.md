@@ -60,3 +60,30 @@ HMAC alongside AES (encrypt data)
    * 非对称：RSA/DSA/ECDSA/ED25519
 
 * Difference between SALT and KEY. Encryption
+
+message authentication codes (MACs)
+digital signatures
+
+The ideal cryptographic hash function has six main properties:
+
+* Deterministic: the same message always results in the same hash;
+* Quick: it is quick to compute the hash value for any given message;
+* One-way function: it is infeasible to generate a message from its hash value except by trying all possible messages;
+* Avalanche effect: a small change to a message should change the hash value so extensively that the new hash value appears uncorrelated with the old hash value;
+* Collision resistant: it is infeasible to find two different messages with the same hash value
+* Pre-image attack resistant: a pre-image attack on cryptographic hash functions tries to find a message that has a specific hash value. A cryptographic hash function should resist attacks on its pre-image.
+
+* hash 分类
+
+  * 普通的hash (Non-cryptographic hash functions)  MurMurHash. It's not difficult to reverse from digest to message
+  * 加密hash (Unkeyed cryptographic hash functions)  MD5/SHA1/SHA256...
+  * (Keyed cryptographic hash functions)  HMAC
+
+* Cryptography
+
+* information security
+  * data confidentiality
+  * data integrity
+  * non-repudiation
+  * authentication
+  
