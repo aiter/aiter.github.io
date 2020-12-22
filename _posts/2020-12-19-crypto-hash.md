@@ -8,8 +8,25 @@ tags: [crypto,encode,hash]
 ---
 {% include codepiano/setup %}
 
-encrypted
+## cryptography & hash function & encoding
 
+### cryptography
+
+* 加解密
+* 加密hash
+* Mac-加密hash
+
+### hash function
+
+* 普通的hash (Non-cryptographic hash functions)  MurMurHash. It's not difficult to reverse from digest to message
+* 加密hash (Unkeyed cryptographic hash functions)  MD5/SHA1/SHA256...
+* (Keyed cryptographic hash functions)  HMAC
+
+### encoding
+
+* encoding/decoding  Base64
+
+encrypted
 decrypt
 
 HMAC alongside AES (encrypt data)
