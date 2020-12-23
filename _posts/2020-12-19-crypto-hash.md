@@ -61,16 +61,17 @@ HMAC alongside AES (encrypt data)
 * 哈希
     * 原始串
     * 哈希后digest
-    * md5/SHA1/SHA256
+    * md5/SHA1/SHA256/SHA224
+* 哈希-加盐(salt/key)
+    * 不加盐，同一hash算法，hash后的串相同
+    * 加盐，同一hash算法，相同原串后的串不同
+    * HMAC-SHA1/HMAC-md5/HMAC-xxx
+    * brute forced/hash collision
 * 编解码(encode/decode)
     * 原始串
     * 编码串
     * Base64 (公开算法，可编解码)
-* 哈希-加盐(salt/key)
-    * 不加盐，同一hash算法，hash后的串相同
-    * 加盐，同一hash算法，相同原串后的串不同
-    * HMAC-SHA1/hmac-md5
-    * brute forced/hash collision
+
 
 * 对称加密(symmetric key) & 非对称加密(asymmetric)
    * 对称：DES/AES/Blowfish/Twofish
