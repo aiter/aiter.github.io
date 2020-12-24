@@ -99,9 +99,9 @@ The ideal cryptographic hash function has six main properties:
 
 * Cryptography
 
-* information security
-  * data confidentiality
-  * data integrity
-  * non-repudiation
-  * authentication
+* information security / 信息安全
+  * data confidentiality / 数据保密
+  * data integrity /
+  * non-repudiation / 
+  * authentication / 认证
   
