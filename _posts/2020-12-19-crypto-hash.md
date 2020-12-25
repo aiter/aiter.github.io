@@ -101,7 +101,11 @@ The ideal cryptographic hash function has six main properties:
 
 * information security / 信息安全
   * data confidentiality / 数据保密
-  * data integrity /
+  * data integrity / 数据完整性
   * non-repudiation / 
   * authentication / 认证
-  
+
+* jwt 使用
+
+* MAC
+  信息传输、保存后，数据的完整性
