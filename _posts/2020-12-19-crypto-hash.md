@@ -32,11 +32,15 @@ decrypt
 HMAC alongside AES (encrypt data)
 
 * AES is encryption; (Advanced Encryption Standard)
-  * 对称加密 symmetric-key algorithm,
+  * 对称加密 symmetric-key algorithm, meaning the same key is used for both encrypting and decrypting the data.
   * key size of 128, 192, or 256 bits
+  * original name Rijndael
 * DES  Data Encryption Standard (DES)
   * AES 接替 DES
 
+* cipher
+
+> In cryptography, a block cipher is a deterministic algorithm operating on fixed-length groups of bits, called blocks. It uses an unvarying transformation, that is, it uses a symmetric key. 
 
 * HMAC is a nice MAC algorithm
 
@@ -109,3 +113,6 @@ The ideal cryptographic hash function has six main properties:
 
 * MAC
   信息传输、保存后，数据的完整性
+
+* Hashing is a one-way function where data is mapped to a fixed-length value. Hashing is primarily used for authentication
+* Salting is an additional step during hashing, typically seen in association to hashed passwords, that adds an additional value to the end of the password that changes the hash value produced.
