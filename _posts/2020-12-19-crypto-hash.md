@@ -116,3 +116,17 @@ The ideal cryptographic hash function has six main properties:
 
 * Hashing is a one-way function where data is mapped to a fixed-length value. Hashing is primarily used for authentication
 * Salting is an additional step during hashing, typically seen in association to hashed passwords, that adds an additional value to the end of the password that changes the hash value produced.
+
+* Difference between salted hash and keyed hashing?
+
+> [Difference between salted hash and keyed hashing](https://crypto.stackexchange.com/questions/10757/difference-between-salted-hash-and-keyed-hashing)
+>
+> * Keyed hashing is usually used to build message authentication codes (MACs), the most common of which is the hashed-based MAC (HMAC).
+>   * secret key
+>   * should be as fast as possible
+>   * 防篡改
+> * Salted hashing are intended to deter brute-force attacks , they are intentionally designed to be slow.
+>   * 防暴力攻击(brute-force attacks)
+>   * designed to be slow
+>   * salts are not assumed to be secret.
+> 
