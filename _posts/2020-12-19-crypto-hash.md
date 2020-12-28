@@ -119,7 +119,9 @@ The ideal cryptographic hash function has six main properties:
 
 * Difference between salted hash and keyed hashing?
 
+> [difference-encryption-hashing-salting](https://www.thesslstore.com/blog/difference-encryption-hashing-salting)
 > [Difference between salted hash and keyed hashing](https://crypto.stackexchange.com/questions/10757/difference-between-salted-hash-and-keyed-hashing)
+> [Difference-between salted hash and keyed hashing](https://crypto.stackexchange.com/questions/10757/difference-between-salted-hash-and-keyed-hashing)
 >
 > * Keyed hashing is usually used to build message authentication codes (MACs), the most common of which is the hashed-based MAC (HMAC).
 >   * secret key
@@ -130,3 +132,10 @@ The ideal cryptographic hash function has six main properties:
 >   * designed to be slow
 >   * salts are not assumed to be secret.
 > 
+
+* 能不能逆转
+* hash 不能
+* 加密 能
+* 逆转是否使用密码
+* 加解密  使用
+* 编解码(encoding/decoding) 不使用
