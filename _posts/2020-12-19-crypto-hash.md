@@ -131,7 +131,6 @@ The ideal cryptographic hash function has six main properties:
 >   * 防暴力攻击(brute-force attacks)
 >   * designed to be slow
 >   * salts are not assumed to be secret.
-> 
 
 * 能不能逆转
 * hash 不能
@@ -139,3 +138,9 @@ The ideal cryptographic hash function has six main properties:
 * 逆转是否使用密码
 * 加解密  使用
 * 编解码(encoding/decoding) 不使用
+
+[checksum](https://en.wikipedia.org/wiki/Checksum)
+[hash_function](https://en.wikipedia.org/wiki/Hash_function)
+[base64](https://en.wikipedia.org/wiki/Base64)
+[purpose of Base64](https://stackoverflow.com/questions/10315757/what-is-the-real-purpose-of-base64-encodingx)
+[CryptoJS-online](https://codepen.io/gabrielizalo/pen/oLzaqx)
