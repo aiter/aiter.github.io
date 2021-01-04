@@ -145,3 +145,4 @@ The ideal cryptographic hash function has six main properties:
 [purpose of Base64](https://stackoverflow.com/questions/10315757/what-is-the-real-purpose-of-base64-encodingx)
 [CryptoJS-online](https://codepen.io/gabrielizalo/pen/oLzaqx)
 [HMAC](https://en.wikipedia.org/wiki/HMAC#:~:text=In%20cryptography%2C%20an%20HMAC%20(sometimes,and%20a%20secret%20cryptographic%20key.)
+[blockchain](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
