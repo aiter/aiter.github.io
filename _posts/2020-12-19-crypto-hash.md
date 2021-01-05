@@ -146,3 +146,4 @@ The ideal cryptographic hash function has six main properties:
 [CryptoJS-online](https://codepen.io/gabrielizalo/pen/oLzaqx)
 [HMAC](https://en.wikipedia.org/wiki/HMAC#:~:text=In%20cryptography%2C%20an%20HMAC%20(sometimes,and%20a%20secret%20cryptographic%20key.)
 [blockchain](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+[比特币如何运作](https://mp.weixin.qq.com/s/g9Pq2mDl01vfi4a5O_R7vA)
