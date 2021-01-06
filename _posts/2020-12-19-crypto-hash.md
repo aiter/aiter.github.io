@@ -84,7 +84,7 @@ HMAC alongside AES (encrypt data)
 * Difference between SALT and KEY. Encryption
 
 message authentication codes (MACs)
-digital signatures
+digital signatures / 使用private-key签名，使用public-key验证(verify)
 
 The ideal cryptographic hash function has six main properties:
 
@@ -147,3 +147,6 @@ The ideal cryptographic hash function has six main properties:
 [HMAC](https://en.wikipedia.org/wiki/HMAC#:~:text=In%20cryptography%2C%20an%20HMAC%20(sometimes,and%20a%20secret%20cryptographic%20key.)
 [blockchain](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
 [比特币如何运作](https://mp.weixin.qq.com/s/g9Pq2mDl01vfi4a5O_R7vA)
+[What is Blockchain Hashing?](https://hedgetrade.com/what-is-blockchain-hashing/)
+[How does a blockchain work - Simply Explained-Youtube](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+[Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
