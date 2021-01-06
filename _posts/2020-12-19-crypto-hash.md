@@ -76,6 +76,20 @@ HMAC alongside AES (encrypt data)
     * 编码串
     * Base64 (公开算法，可编解码)
 
+## Cryptographic hash function
+
+* data of arbitrary size (often called the "message") to a bit array of a fixed size (the "hash value", "hash", or "message digest").
+* one-way function
+* infeasible to invert
+* the only way:  brute-force search / use a rainbow table of matched hashes
+
+### properties
+
+* deterministic(确定性)：the same message always results in the same hash
+* quick(速度快)
+* infeasible to reverse(不可逆，one way)
+* infeasible to find two different messages with the same hash value(没有2个数据hash是相同的，实际是很少)
+* a small change to a message should change the hash value so extensively(很小的变化，hash value变化很大)
 
 * 对称加密(symmetric key) & 非对称加密(asymmetric)
    * 对称：DES/AES/Blowfish/Twofish
