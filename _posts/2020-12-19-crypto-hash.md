@@ -127,6 +127,9 @@ The ideal cryptographic hash function has six main properties:
 
 * MAC
   信息传输、保存后，数据的完整性
+  G (key-generator) gives the key k on input 1n, where n is the security parameter.
+  S (signing) outputs a tag t on the key k and the input string x.
+  V (verifying) outputs accepted or rejected on inputs: the key k, the string x and the tag t.
 
 * Hashing is a one-way function where data is mapped to a fixed-length value. Hashing is primarily used for authentication
 * Salting is an additional step during hashing, typically seen in association to hashed passwords, that adds an additional value to the end of the password that changes the hash value produced.
@@ -164,3 +167,4 @@ The ideal cryptographic hash function has six main properties:
 [What is Blockchain Hashing?](https://hedgetrade.com/what-is-blockchain-hashing/)
 [How does a blockchain work - Simply Explained-Youtube](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+[mac](https://en.wikipedia.org/wiki/Message_authentication_code)
