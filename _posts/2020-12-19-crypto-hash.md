@@ -115,6 +115,24 @@ The ideal cryptographic hash function has six main properties:
   * 加密hash (Unkeyed cryptographic hash functions)  MD5/SHA1/SHA256...
   * (Keyed cryptographic hash functions)  HMAC
 
+  * Fixed Length Output (Hash Value) 固定长度输出
+  * Efficiency of Operation 速度快，一般都比对称加密快
+
+  * Message Digest (MD)
+    * In 2004, collisions were found in MD5.This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
+  * Secure Hash Function (SHA) [14]
+    * SHA-0, SHA-1, SHA-2, and SHA-3
+    * SHA-1, Secure Socket Layer (SSL) security. In 2005, a method was found for uncovering collisions for SHA-1 within practical time frame making long-term employability of SHA-1 doubtful.
+    * SHA-2,  No successful attacks have yet been reported on SHA-2 hash function.
+    * In October 2012, the NIST chose the Keccak algorithm as the new SHA-3 standard.
+  * RIPEMD
+  * Whirlpool
+
+* hash常见应用场景 （Applications of Hash Functions）
+  * Password Storage/密码保存
+  * Data Integrity Check/数据完整性检查
+
+
 * Cryptography
 
 * information security / 信息安全
@@ -130,6 +148,13 @@ The ideal cryptographic hash function has six main properties:
   G (key-generator) gives the key k on input 1n, where n is the security parameter.
   S (signing) outputs a tag t on the key k and the input string x.
   V (verifying) outputs accepted or rejected on inputs: the key k, the string x and the tag t.
+
+  * MAC algorithm is a symmetric key cryptographic technique/对称加密技术 [13]
+
+* hash 和 mac主要解决的应用场景
+  * sender提供了message和digest。 receiver已经知道digest，只需要验证message是否被修改。[hash]
+  * sender提供了message和digest。 receiver不知道digest，也是通过非安全渠道获取到digest的。如果攻击者，同时修改message和digest，那么receiver就不知道了。
+  这时使用mac，攻击者如果修改了message，但是不知道key，所以无法修改digest，这样receiver就能验证。[mac]
 
 * Hashing is a one-way function where data is mapped to a fixed-length value. Hashing is primarily used for authentication
 * Salting is an additional step during hashing, typically seen in association to hashed passwords, that adds an additional value to the end of the password that changes the hash value produced.
@@ -156,15 +181,17 @@ The ideal cryptographic hash function has six main properties:
 * 加解密  使用
 * 编解码(encoding/decoding) 不使用
 
-[checksum](https://en.wikipedia.org/wiki/Checksum)
-[hash_function](https://en.wikipedia.org/wiki/Hash_function)
-[base64](https://en.wikipedia.org/wiki/Base64)
-[purpose of Base64](https://stackoverflow.com/questions/10315757/what-is-the-real-purpose-of-base64-encodingx)
-[CryptoJS-online](https://codepen.io/gabrielizalo/pen/oLzaqx)
-[HMAC](https://en.wikipedia.org/wiki/HMAC#:~:text=In%20cryptography%2C%20an%20HMAC%20(sometimes,and%20a%20secret%20cryptographic%20key.)
-[blockchain](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
-[比特币如何运作](https://mp.weixin.qq.com/s/g9Pq2mDl01vfi4a5O_R7vA)
-[What is Blockchain Hashing?](https://hedgetrade.com/what-is-blockchain-hashing/)
-[How does a blockchain work - Simply Explained-Youtube](https://www.youtube.com/watch?v=SSo_EIwHSd4)
-[Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-[mac](https://en.wikipedia.org/wiki/Message_authentication_code)
+1. [checksum](https://en.wikipedia.org/wiki/Checksum)
+2. [hash_function](https://en.wikipedia.org/wiki/Hash_function)
+3. [base64](https://en.wikipedia.org/wiki/Base64)
+4. [purpose of Base64](https://stackoverflow.com/questions/10315757/what-is-the-real-purpose-of-base64-encodingx)
+5. [CryptoJS-online](https://codepen.io/gabrielizalo/pen/oLzaqx)
+6. [HMAC](https://en.wikipedia.org/wiki/HMAC#:~:text=In%20cryptography%2C%20an%20HMAC%20(sometimes,and%20a%20secret%20cryptographic%20key.)
+7. [blockchain](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+8. [比特币如何运作](https://mp.weixin.qq.com/s/g9Pq2mDl01vfi4a5O_R7vA)
+9. [What is Blockchain Hashing?](https://hedgetrade.com/what-is-blockchain-hashing/)
+10. [How does a blockchain work - Simply Explained-Youtube](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+11. [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+12. [mac](https://en.wikipedia.org/wiki/Message_authentication_code)
+13. [Message Authentication](https://www.tutorialspoint.com/cryptography/message_authentication.htm)
+14. [Cryptography Hash functions](https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm)
