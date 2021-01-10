@@ -8,6 +8,18 @@ tags: [crypto,encode,hash]
 ---
 {% include codepiano/setup %}
 
+History of Cryptography
+
+* The earlier Roman method of cryptography, popularly known as the Caesar Shift Cipher
+* Steganography:invisible watermarking.
+
+Evolution of Cryptography
+
+* Vigenere Coding
+* the more sophisticated art and science of information security
+* Enigma rotor machine
+* cryptography and cryptanalysis
+
 ## cryptography & hash function & encoding
 
 ### cryptography
