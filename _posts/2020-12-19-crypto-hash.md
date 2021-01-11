@@ -20,6 +20,12 @@ Evolution of Cryptography
 * Enigma rotor machine
 * cryptography and cryptanalysis
 
+Security Services of Cryptography
+
+* Confidentiality
+* Data Integrity: 检测数据是否被修改
+* Authentication
+
 ## cryptography & hash function & encoding
 
 ### cryptography
