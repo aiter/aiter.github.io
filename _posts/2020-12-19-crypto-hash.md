@@ -34,6 +34,27 @@ Security Services of Cryptography
 * 加密hash
 * Mac-加密hash
 
+Components of a Cryptosystem
+
+* Plaintext
+* Encryption Algorithm.
+* Ciphertext
+* Decryption Algorithm
+* Encryption Key
+* Decryption Key
+
+Types of Cryptosystems
+
+* Symmetric Key : same keys are used for encrypting and decrypting − Digital Encryption Standard (DES), Triple-DES (3DES), IDEA, and BLOWFISH.
+* Asymmetric Key : different keys are used for encrypting and decrypting the information
+
+Challenge of Symmetric Key Cryptosystem
+
+* Key establishment
+* Trust Issue
+
+Asymmetric Key Encryption
+
 ### hash function
 
 * 普通的hash (Non-cryptographic hash functions)  MurMurHash. It's not difficult to reverse from digest to message
