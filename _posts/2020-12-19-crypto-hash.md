@@ -220,6 +220,11 @@ The ideal cryptographic hash function has six main properties:
 * 加解密  使用
 * 编解码(encoding/decoding) 不使用
 
+Attacks
+
+* Passive Attacks
+* Active Attacks
+
 1. [checksum](https://en.wikipedia.org/wiki/Checksum)
 2. [hash_function](https://en.wikipedia.org/wiki/Hash_function)
 3. [base64](https://en.wikipedia.org/wiki/Base64)
