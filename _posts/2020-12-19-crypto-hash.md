@@ -222,8 +222,8 @@ The ideal cryptographic hash function has six main properties:
 
 Attacks
 
-* Passive Attacks
-* Active Attacks
+* Passive Attacks ： “偷看”未授权的信息
+* Active Attacks：修改信息
 
 1. [checksum](https://en.wikipedia.org/wiki/Checksum)
 2. [hash_function](https://en.wikipedia.org/wiki/Hash_function)
