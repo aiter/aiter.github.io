@@ -13,6 +13,11 @@ History of Cryptography
 * The earlier Roman method of cryptography, popularly known as the Caesar Shift Cipher
 * Steganography:invisible watermarking.
 
+1. Caesar Cipher/Shift Cipher(not a secure cryptosystem)
+2. Simple Substitution Cipher
+3. Monoalphabetic and Polyalphabetic Cipher
+4. Playfair Cipher
+
 Evolution of Cryptography
 
 * Vigenere Coding
