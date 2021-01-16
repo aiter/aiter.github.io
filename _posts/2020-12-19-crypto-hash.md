@@ -17,6 +17,12 @@ History of Cryptography
 2. Simple Substitution Cipher
 3. Monoalphabetic and Polyalphabetic Cipher
 4. Playfair Cipher
+5. Vigenere Cipher
+6. Variants of Vigenere Cipher
+  6.1 One-Time Pad
+    6.1.1 Shift Cipher − Easy to Break
+    6.1.2 One-time Pad − Impossible to Break
+  6.2 Transposition Cipher
 
 Evolution of Cryptography
 
