@@ -25,6 +25,12 @@ History of Cryptography
   6.2 Transposition Cipher
 
 Block Ciphers(DES、AES)
+
+* Feistel Block Cipher (DES)
+* Encryption/Decryption Process
+  * Number of Rounds
+  * efficiency–security tradeoff
+
 Stream Ciphers
 
 Evolution of Cryptography
