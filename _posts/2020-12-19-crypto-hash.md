@@ -30,6 +30,12 @@ Block Ciphers(DES、AES)
 * Encryption/Decryption Process
   * Number of Rounds
   * efficiency–security tradeoff
+* AES
+  * It is found at least six time faster than triple DES
+  * Symmetric key symmetric block cipher
+  * 128-bit data, 128/192/256-bit keys
+  * Stronger and faster than Triple-DES
+  * Provide full specification and design details
 
 Stream Ciphers
 
