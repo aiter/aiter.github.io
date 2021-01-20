@@ -52,6 +52,12 @@ Security Services of Cryptography
 * Data Integrity: 检测数据是否被修改
 * Authentication
 
+Electronic Code Book (ECB) Mode
+Analysis of ECB Mode
+Cipher Block Chaining (CBC) Mode
+Analysis of CBC Mode
+Cipher Feedback (CFB) Mode
+
 ## cryptography & hash function & encoding
 
 ### cryptography
