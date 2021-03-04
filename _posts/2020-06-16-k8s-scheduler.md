@@ -25,3 +25,4 @@ tags: [k8s,kubernetes,scheduler]
 * 运行自定义调度器(pod)方式
 * 调度其他pod时，指定自定义调度器的名称
 
+[scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
