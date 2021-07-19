@@ -24,6 +24,7 @@ tags: [ai,ml]
 * 循环神经网络 - Recurrent Neural Network | RNN
 * 卷积神经网络 - CNN
 * 强化学习-Reinforcement learning | RL
+* RNN->LSTM
 
 ### 机器学习
 * 线性回归 - linear regression
