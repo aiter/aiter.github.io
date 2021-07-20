@@ -25,6 +25,8 @@ tags: [ai,ml]
 * 卷积神经网络 - CNN
 * 强化学习-Reinforcement learning | RL
 * RNN->LSTM
+* Encoder-Decoder  Seq2Seq
+* Transformer   BERT|Bidirectional Encoder Representation from Transformers
 
 ### 机器学习
 * 线性回归 - linear regression
