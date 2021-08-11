@@ -27,6 +27,7 @@ tags: [ai,ml]
 * RNN->LSTM
 * Encoder-Decoder  Seq2Seq
 * Transformer   BERT|Bidirectional Encoder Representation from Transformers
+* GPT (OpenAI)
 
 ### 机器学习
 * 线性回归 - linear regression
