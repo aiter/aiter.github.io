@@ -68,6 +68,20 @@ $ go mod vendor
 
 golang使用逻辑的处理器概念。
 
+### channel
+
+* channel
+
+```golang
+   ch := make(chan int)
+```
+
+* buffered channel
+
+```golang
+   ch := make(chan int, 2)
+```
+
 ### pool
 
 ### system modules
