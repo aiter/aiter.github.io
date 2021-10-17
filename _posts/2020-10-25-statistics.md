@@ -6,7 +6,7 @@ title: "statistics"
 categories: [ML]
 tags: [ML]
 ---
-{% include codepiano/setup %
+{% include codepiano/setup %}
 
 ## logistic model
 
