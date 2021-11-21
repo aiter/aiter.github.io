@@ -40,3 +40,14 @@
 * Marketing has to be our number one priority. With this in mind …
 * OK, this is what we're going to do. We're going to have the company party next week.
 * Addressing such issues has to be our number one priority.
+
+## EXPRESSING DOUBT
+
+* I can accept that.
+* I'm prepared to believe that.
+* I'm willing to go along with the idea.
+* This seems a bit far-fetched.
+* Doesn't it strike you as odd?
+* It's highly implausible(not reasonable).
+* this is utter nonsense!
+* That doesn't make any sense.
