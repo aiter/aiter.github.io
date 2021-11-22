@@ -51,3 +51,8 @@
 * It's highly implausible(not reasonable).
 * this is utter nonsense!
 * That doesn't make any sense.
+
+## usage
+
+* make sense to...... : It makes sense to centralize the data storage.
+* be involved in ..... : We are deeply involved in the Kubernetes technologies.
