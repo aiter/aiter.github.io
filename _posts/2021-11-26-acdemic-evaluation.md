@@ -34,6 +34,11 @@ tags: [ccf,Academic,Evaluation,journal,conference]
 
 ## CCF推荐中文科技期刊目录
 
+## 如何找到优秀的论文
+
+* 通过收录列表，被收录，说明被认可
+* 通过google Scholar 查找，并查看被引用数(Cited by..)
+
 ## reference
 
 [ccf Academic Evaluation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
