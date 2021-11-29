@@ -40,12 +40,24 @@ tags: [ccf,Academic,Evaluation,journal,conference]
 * 通过google Scholar 查找，并查看被引用数(Cited by..)
 * 关注推荐列表？
 
+### 几个主要的出版社？
+
+* ACM
+* IEEE
+* USENIX
+* Springer
+* Elsevier
+* SIAM
+* INFORMS
+* AAAI
+* MIT Press
+
 ### USENIX
 
 > USENIX（读做use-nix）是一个支持操作系统研究的协会
 
-* OSDI: Operating Systems Design and Implementation 操作系统顶会
-* NSDI: Networked Systems Design and Implementation 网络系统顶会
+* OSDI: Symposium on Operating Systems Design and Implementation 操作系统顶会
+* NSDI: Symposium on Networked Systems Design and Implementation 网络系统顶会
 * ATC : Annual Technical Conference
 * FAST : File and Storage Technologies 存储顶会
 
@@ -54,16 +66,27 @@ tags: [ccf,Academic,Evaluation,journal,conference]
 > Association for Computing Machine 国际计算机协会
 > CCF： China Computer Federation 中国计算机学会
 
-### NFOCOMM
+### SIGPLAN
+
+> Special Interest Group on Programming Languages
+>
+> * focusing on design, implementation, practice, and theory
+> * Its members are programming language developers, educators, implementers, researchers, theoreticians, and users.
+
+#### PPoPP:Principles & Practice of Parallel Programming
 
 ### SIGCOMM
 
 > Special Interest Group on Data Communication
-> SIGCOMM是ACM组织在通信网络领域的旗舰型会议，也是国际通信网络领域的顶尖会议，由ACM SIGCOMM组织举办。 
+> SIGCOMM是ACM组织在通信网络领域的旗舰型会议，也是国际通信网络领域的顶尖会议，由ACM SIGCOMM组织举办。
 >
 > ACM有下属37个专业组织SIGs（Special Interest Group）
+
+### INFOCOMM
 
 ## reference
 
 [ccf Academic Evaluation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 [ACM SIGs](https://www.acm.org/special-interest-groups/alphabetical-listing)
+[sigplan.org](http://www.sigplan.org/)
+[PPoPP SIGPLAN](https://dblp.uni-trier.de/db/conf/ppopp/index.html)
