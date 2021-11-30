@@ -84,9 +84,18 @@ tags: [ccf,Academic,Evaluation,journal,conference]
 
 ### INFOCOMM
 
+### Aritficial Intelligence
+
+### Neural Informaion Proccessing Systems
+
+#### NeurIPS 2021
+
+> [5]
+
 ## reference
 
-[ccf Academic Evaluation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-[ACM SIGs](https://www.acm.org/special-interest-groups/alphabetical-listing)
-[sigplan.org](http://www.sigplan.org/)
-[PPoPP SIGPLAN](https://dblp.uni-trier.de/db/conf/ppopp/index.html)
+[1. ccf Academic Evaluation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+[2. ACM SIGs](https://www.acm.org/special-interest-groups/alphabetical-listing)
+[3. sigplan.org](http://www.sigplan.org/)
+[4. PPoPP SIGPLAN](https://dblp.uni-trier.de/db/conf/ppopp/index.html)
+[5. NeurIPS 2021](https://nips.cc/virtual/2021/index.html)
