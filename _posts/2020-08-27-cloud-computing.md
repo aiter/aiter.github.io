@@ -25,6 +25,19 @@ tags: [cloud]
 
 ### SaaS (Software as a Service)
 
+## Cloud Native
+
+* Containerization
+* CI/CD
+* Orchestration & Application definition
+* Observability & Analysis
+* Service proxy, Discovery & Mesh
+* Networking, Policy & Security
+* Distributed database & Storage
+* Streaming & Messaging
+* Container Registry & Runtime
+* Software distribution
+
 ## Benefits
 
 * 灵活
