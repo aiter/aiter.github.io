@@ -38,6 +38,10 @@ tags: [cloud]
 * Container Registry & Runtime
 * Software distribution
 
+### The Twelve-Factor Application
+
+[cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
+
 ## Benefits
 
 * 灵活
