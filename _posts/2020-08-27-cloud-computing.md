@@ -40,6 +40,10 @@ tags: [cloud]
 
 ### The Twelve-Factor Application
 
+* 弹性伸缩
+* 集群中Node的伸缩
+* pod的伸缩
+
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
 ## Benefits
