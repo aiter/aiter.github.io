@@ -44,6 +44,12 @@ tags: [cloud]
 * 集群中Node的伸缩
 * pod的伸缩
 
+* 消息队列
+* request/response messaging
+* request/reply
+* command
+* Event bus
+
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
 ## Benefits
