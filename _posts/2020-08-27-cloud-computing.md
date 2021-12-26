@@ -57,6 +57,9 @@ tags: [cloud]
 * Availability
 * Partition Tolerance
 
+* Relational database systems: CA(Consistency & Availability)
+* NoSQL databases: AP(abailability * Partition Tolerance)
+
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
 ## Benefits
