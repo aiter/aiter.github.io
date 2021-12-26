@@ -50,6 +50,13 @@ tags: [cloud]
 * command
 * Event bus
 
+### Cloud-native data patterns
+
+* CAP
+* Consistency
+* Availability
+* Partition Tolerance
+
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
 ## Benefits
