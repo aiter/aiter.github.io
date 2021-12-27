@@ -60,6 +60,12 @@ tags: [cloud]
 * Relational database systems: CA(Consistency & Availability)
 * NoSQL databases: AP(abailability * Partition Tolerance)
 
+* Cloud-native resiliency
+* Monitoring and health
+* logging/monitoring/alerts
+* Logging with Elastic Stack
+* Monitoring in Azure Kubernetes Services(Prometheus)
+
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
 ## Benefits
