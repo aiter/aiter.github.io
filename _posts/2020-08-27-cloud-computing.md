@@ -66,6 +66,9 @@ tags: [cloud]
 * Logging with Elastic Stack
 * Monitoring in Azure Kubernetes Services(Prometheus)
 
+* Cloud-native identity/security
+* DevOps
+
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
 ## Benefits
