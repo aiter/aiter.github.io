@@ -43,6 +43,7 @@ tags: [cloud]
 * 弹性伸缩
 * 集群中Node的伸缩
 * pod的伸缩
+* 可观测性
 
 * 消息队列
 * request/response messaging
