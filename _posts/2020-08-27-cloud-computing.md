@@ -72,6 +72,10 @@ tags: [cloud]
 
 [cloud-native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 
+## 2015-CHASE- Component High Availability-Aware Scheduler in Cloud Computing Environment
+
+* availability-aware scheduling technique
+
 ## Benefits
 
 * 灵活
