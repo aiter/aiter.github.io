@@ -74,6 +74,8 @@ tags: [cloud]
 
 ## 2015-CHASE- Component High Availability-Aware Scheduler in Cloud Computing Environment
 
+## 2013-Apache Hadoop YARN- Yet Another Resource Negotiator
+
 * availability-aware scheduling technique
 
 ## Benefits
