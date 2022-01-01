@@ -76,6 +76,8 @@ tags: [cloud]
 
 ## 2013-Apache Hadoop YARN- Yet Another Resource Negotiator
 
+* Apache Hadoop
+
 * availability-aware scheduling technique
 
 ## Benefits
