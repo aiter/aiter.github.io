@@ -77,6 +77,12 @@ tags: [cloud]
 ## 2013-Apache Hadoop YARN- Yet Another Resource Negotiator
 
 * Apache Hadoop
+* RM(Resource Manager)
+
+> * tracks resource usage
+> * node liveness
+> * enforces allocation invariant
+> * arbitrate contention
 
 * availability-aware scheduling technique
 
