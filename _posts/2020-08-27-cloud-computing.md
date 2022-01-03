@@ -84,6 +84,9 @@ tags: [cloud]
 > * enforces allocation invariant
 > * arbitrate contention
 
+* NM(Node manager)
+* AM(Application Manager)
+
 * availability-aware scheduling technique
 
 ## Benefits
