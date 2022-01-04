@@ -87,6 +87,8 @@ tags: [cloud]
 * NM(Node manager)
 * AM(Application Manager)
 
+* YARN framework/application writers
+
 * availability-aware scheduling technique
 
 ## Benefits
