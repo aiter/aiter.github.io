@@ -89,6 +89,10 @@ tags: [cloud]
 
 * YARN framework/application writers
 
+* YARN in the real-world
+* YARN at Yahoo!
+* MapReduce
+
 * availability-aware scheduling technique
 
 ## Benefits
