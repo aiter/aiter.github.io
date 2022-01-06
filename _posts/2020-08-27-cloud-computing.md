@@ -95,6 +95,10 @@ tags: [cloud]
 
 * availability-aware scheduling technique
 
+## Fuxi ParSync
+
+* distributed cluster scheduler
+
 ## Benefits
 
 * 灵活
