@@ -98,6 +98,7 @@ tags: [cloud]
 ## Fuxi ParSync
 
 * distributed cluster scheduler
+* sharding & multiple schedulers
 
 ## Benefits
 
