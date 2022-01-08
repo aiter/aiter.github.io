@@ -99,6 +99,9 @@ tags: [cloud]
 
 * distributed cluster scheduler
 * sharding & multiple schedulers
+* Workload statistics
+* 4 millon jobs & 4 billon tasks
+* 87% of tasks are completed in less than 10 seconds
 
 ## Benefits
 
