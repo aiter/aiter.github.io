@@ -104,6 +104,11 @@ tags: [cloud]
 * 87% of tasks are completed in less than 10 seconds
 * Partitioned Synchronization
 
+## Omega: flexible, scalable schedulers for large compute clusters
+
+* Shared state
+* optimistic concurrency
+
 ## Benefits
 
 * 灵活
