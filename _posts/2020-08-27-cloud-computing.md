@@ -109,6 +109,10 @@ tags: [cloud]
 * Shared state
 * optimistic concurrency
 
+* 3.1 Monolithic schedulers
+* 3.2 Statically partitioned schedulers
+* 3.3 Two-level scheduling
+
 ## Benefits
 
 * 灵活
