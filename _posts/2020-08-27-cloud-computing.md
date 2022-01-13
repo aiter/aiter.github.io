@@ -113,6 +113,7 @@ tags: [cloud]
 * 3.2 Statically partitioned schedulers
 * 3.3 Two-level scheduling(Mesos)
 * 3.4 Shared state(Omega)
+* fuxi is similar to Omega?
 
 ## Benefits
 
