@@ -114,6 +114,7 @@ tags: [cloud]
 * 3.3 Two-level scheduling(Mesos)
 * 3.4 Shared state(Omega)
 * fuxi is similar to Omega?
+* how to syn state
 
 ## Benefits
 
