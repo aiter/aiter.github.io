@@ -246,6 +246,13 @@ tags: [cloud]
   * scheduling
   * binding
 
+## Guidelines to follow when creating architectural diagrams
+
+* Keep structural and semantical consistency across diagrams/保持各图的结构和语义的一致性
+* Prevent diagrams fragmentation/防止图示碎片化
+* Keep traceability across diagrams/保持跨图表的可追溯性
+* Add legends next to architectural diagrams/在建筑图旁添加图例
+
 ### References
 
 [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
