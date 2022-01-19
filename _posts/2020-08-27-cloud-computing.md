@@ -253,6 +253,12 @@ tags: [cloud]
 * Keep traceability across diagrams/保持跨图表的可追溯性
 * Add legends next to architectural diagrams/在建筑图旁添加图例
 
+* Application architecture diagram
+* Integration architecture diagram
+* Deployment architecture diagram
+* DevOps architecture diagram
+* Data architecture diagram
+
 ### References
 
 [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
