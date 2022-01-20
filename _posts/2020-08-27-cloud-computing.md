@@ -258,6 +258,7 @@ tags: [cloud]
 * Deployment architecture diagram
 * DevOps architecture diagram
 * Data architecture diagram
+* shaps lines arrow
 
 ### References
 
