@@ -259,6 +259,7 @@ tags: [cloud]
 * DevOps architecture diagram
 * Data architecture diagram
 * shaps lines arrow
+* diagram legend
 
 > a picture is worth a thousand words
 
