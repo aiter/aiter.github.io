@@ -119,9 +119,9 @@ tags: [cloud]
 
 ## Benefits
 
-* 灵活
-* 弹性
-* 节约成本
+* 灵活 Flexible
+* 弹性 Scalable
+* 节约成本 Cost effective
 
 ## CDN
 
