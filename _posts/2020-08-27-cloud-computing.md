@@ -116,6 +116,7 @@ tags: [cloud]
 * fuxi is similar to Omega?
 * how to syn state
 * kubernetes's scheduler
+* 异构资源 GPU
 
 ## Benefits
 
