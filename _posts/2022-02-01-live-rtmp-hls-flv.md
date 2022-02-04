@@ -23,3 +23,4 @@ tags: [live,rtmp,hls]
 [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
 [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
 [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+[The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
