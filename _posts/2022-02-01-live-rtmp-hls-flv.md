@@ -15,6 +15,16 @@ tags: [live,rtmp,hls]
 
 ## WebSocket
 
+### Design Philosophy
+
+> there should be minimal framing
+> It is expected that metadata would be layered on top of WebSocket by the application layer, in the same way that metadata is layered on top of TCP by the application layer (e.g., HTTP).
+>
+> * adds a web origin-based security model for browsers
+> * adds an addressing and protocol naming mechanism to support multiple services on one port and multiple host names on one IP address
+> * layers a framing mechanism on top of TCP to get back to the IP packet mechanism that TCP is built on, but without length limits
+> * includes an additional closing handshake in-band that is designed to work in the presence of proxies and other intermediaries
+
 ### Security considerations
 
 ### Proxy traversal
