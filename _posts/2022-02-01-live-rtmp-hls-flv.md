@@ -25,6 +25,10 @@ tags: [live,rtmp,hls]
 > * layers a framing mechanism on top of TCP to get back to the IP packet mechanism that TCP is built on, but without length limits
 > * includes an additional closing handshake in-band that is designed to work in the presence of proxies and other intermediaries
 
+### Security Model
+
+### Relationship to TCP and HTTP
+
 ### Security considerations
 
 ### Proxy traversal
