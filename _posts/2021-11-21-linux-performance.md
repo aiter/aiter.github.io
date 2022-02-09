@@ -15,4 +15,7 @@ tags: [linux,vmstat,pidstat,iostat]
 * pidstat
 * iostat
 
+* Cpusets
+* cpu share
+
 [cgroup](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
