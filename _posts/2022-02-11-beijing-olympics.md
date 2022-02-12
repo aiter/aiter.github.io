@@ -53,6 +53,8 @@ tags: [olympics,sports]
 > Women's Freeski Slopestyle(坡面障碍技巧)
 > Women's Freeski Halfpipe(U型场地技巧)
 
+* Halfpipe
+
 ### Ski Jumping 跳台滑雪
 
 ### Snowboard 单板滑雪
