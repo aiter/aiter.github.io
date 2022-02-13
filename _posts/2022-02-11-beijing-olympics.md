@@ -28,6 +28,9 @@ tags: [olympics,sports]
 
 ### Alpine Skiing 高山滑雪
 
+* Giant Slalom
+* Downhill
+
 ### Cross-Country Skiing(CCS) 越野滑雪
 
 > Norway: 3 Gold Medals
@@ -37,6 +40,8 @@ tags: [olympics,sports]
 ### Biathlon(BTH) 冬季两项(越野滑雪和步枪射击)
 
 > Norway: 2 Gold Medals
+
+* Pursuit
 
 ### Luge(LUG) 雪橇
 
