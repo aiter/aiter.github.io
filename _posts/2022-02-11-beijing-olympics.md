@@ -60,6 +60,10 @@ tags: [olympics,sports]
 
 * Halfpipe
 
+* aerials
+
+> Xu Mengtao wins emotional gold in Beijing 2022 freestyle skiing women's aerials
+
 ### Ski Jumping 跳台滑雪
 
 ### Snowboard 单板滑雪
