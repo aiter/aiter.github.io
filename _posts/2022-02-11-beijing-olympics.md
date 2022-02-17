@@ -16,6 +16,7 @@ tags: [olympics,sports]
 
 > HANYU Yuzuru
 > CHEN Nathan
+> Alysa Liu, Mariah Bell have dream Olympic performances in women's free skate
 
 ### Speed Skating 速滑
 
@@ -65,7 +66,6 @@ tags: [olympics,sports]
 * aerials
 
 > Xu Mengtao wins emotional gold in Beijing 2022 freestyle skiing women's aerials
-
 > Su Yiming’s double 1800s seal Team China gold in men’s snowboard big air
 
 ### Ski Jumping 跳台滑雪
