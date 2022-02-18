@@ -67,6 +67,7 @@ tags: [olympics,sports]
 
 > Xu Mengtao wins emotional gold in Beijing 2022 freestyle skiing women's aerials
 > Su Yiming’s double 1800s seal Team China gold in men’s snowboard big air
+> Ailing Eileen GU wins gold in Women's Freeski Halfpipe
 
 ### Ski Jumping 跳台滑雪
 
