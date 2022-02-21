@@ -78,3 +78,7 @@ tags: [olympics,sports]
 ## Closing Ceremony
 
 > 2022.2.20
+
+## References
+
+[Shougang Park](https://olympics.com/ioc/news/beijing-s-shougang-park-how-the-olympic-games-helped-turn-a-steel-mill-into-a-trendy-urban-area)
