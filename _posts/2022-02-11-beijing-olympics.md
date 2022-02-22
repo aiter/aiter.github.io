@@ -75,9 +75,9 @@ tags: [olympics,sports]
 
 ### Snowboard 单板滑雪
 
-## Closing Ceremony
+## Opening/Closing Ceremony
 
-> 2022.2.20
+> 2022.2.4/2022.2.20
 
 ## References
 
