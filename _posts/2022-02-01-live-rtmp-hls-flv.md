@@ -15,6 +15,9 @@ tags: [live,rtmp,hls]
 
 ## WebSocket
 
+* over HTTP
+* ws/wss
+
 ### Design Philosophy
 
 > there should be minimal framing
