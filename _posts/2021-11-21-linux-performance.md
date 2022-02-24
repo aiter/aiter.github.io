@@ -18,5 +18,7 @@ tags: [linux,vmstat,pidstat,iostat]
 * Cpusets
 * cpu share
 
+## Gcc & Clang/LLVM
 
 [cgroup](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
+[clang-and-llvm-and-gcc](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
