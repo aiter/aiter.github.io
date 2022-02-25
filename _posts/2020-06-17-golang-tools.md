@@ -8,6 +8,13 @@ tags: [golang]
 ---
 {% include codepiano/setup %}
 
+## go docs
+
+> 表达力强、简洁、干净、高效
+
+Module
+  |__package
+  |__package
 
 ## Go Modules
 > [golang.org](https://blog.golang.org/using-go-modules)
