@@ -81,6 +81,18 @@ $go mod tidy
 $go mod vendor
 ```
 
+### 让vs code 识别到vendor目录
+
+在vscode的setting中加入配置
+
+```json
+{
+    "go.toolsEnvVars": {
+        "GOFLAGS": "-mod=vendor"
+    }
+}
+```
+
 ## language
 
 ### struct & interface
