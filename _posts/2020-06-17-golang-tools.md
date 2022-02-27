@@ -50,6 +50,15 @@ $ go get rsc.io/sampler@v1.3.1
 
 ```
 
+### go build/install
+
+```shell
+$go env -w GOBIN=/path/to/your/bin
+$go build
+$go install
+$go list -f '{{.Target}}'
+```
+
 ### 使用本地项目替换远程module
 
 ```shell
