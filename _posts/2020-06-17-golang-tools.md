@@ -108,6 +108,11 @@ $go mod vendor
 
 golang使用逻辑的处理器概念。
 
+### array & slice
+
+* array
+* slice
+
 ### channel
 
 * channel
