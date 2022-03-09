@@ -14,6 +14,8 @@ tags: [network,dns,bgp,ddos]
 
 任播指一个IP可以应用到多个服务器上
 
+## Ip show / manipulate routing, devices, policy routing and tunnels
+
 ## references
 
 * [rfc1034 DNS](https://datatracker.ietf.org/doc/html/rfc1034)
