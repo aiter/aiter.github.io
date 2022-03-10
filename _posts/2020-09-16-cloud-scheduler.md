@@ -295,6 +295,8 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
       * colocation constraint
       * anti-colocation constraint
 
+* descheduling & coscheduling
+
 * Related work
   * VSphere’s resource management system is the Distributed Resource Scheduler (DRS) 
   * Microsoft Sys- tems Center (MSC)
