@@ -333,3 +333,5 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Distributed Computing
     * In parallel computing, all processors may have access to a shared memory to exchange information between processors.
     * In distributed computing, each processor has its own private memory (distributed memory). Information is exchanged by passing messages between the processors.
+
+  * [CFS-Completely Fair Scheduler](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html)
