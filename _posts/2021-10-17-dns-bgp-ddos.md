@@ -12,11 +12,9 @@ tags: [network,dns,bgp,ddos]
 
 ### DNS recursor  DNS解析器
 
-### Root nameserver 根域名服务器
+### Root nameserver
 
-### TLD nameserver 顶级域名服务器
-
-### Authoritative nameserver 权威性域名服务器
+### TLD nameserver
 
 ### 什么是任播(Anycast)DNS?
 
@@ -35,3 +33,4 @@ tags: [network,dns,bgp,ddos]
 * [rfc1035 DNS](https://datatracker.ietf.org/doc/html/rfc1035)
 * [what-is-the-difference-between-authoritative-and-recursive-dns-nameservers)](https://umbrella.cisco.com/blog/what-is-the-difference-between-authoritative-and-recursive-dns-nameservers)
 * [dns-zone](https://www.cloudflare.com/zh-cn/learning/dns/glossary/dns-zone/)
+* [dns-root-server](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
