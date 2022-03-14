@@ -27,6 +27,10 @@ tags: [network,dns,bgp,ddos]
 > A DNS zone is a portion of the DNS namespace that is managed by a specific organization or administrator.
 > 一个DNS zone是DNS名字空间的一部分，它被特定组织和管理机构管理。
 
+## DNS root server
+
+## TLD server
+
 ## references
 
 * [rfc1034 DNS](https://datatracker.ietf.org/doc/html/rfc1034)
