@@ -162,3 +162,7 @@ tags: [k8s,kubernetes,crd,resource]
 |nodes| no|| false| Node|
 |pods|po||true|Pod|
 |crontabs| ct|stable.example.com| true| CronTab|
+
+## docker
+
+[docker instructions](https://docs.docker.com/engine/reference/builder/#from)
