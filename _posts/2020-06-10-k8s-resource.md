@@ -12,8 +12,8 @@ tags: [k8s,kubernetes,crd,resource]
 
 ### Deployment
 
- kubectl apply -f https://k8s.io/examples/application/deployment.yaml
-  kubectl describe deployment nginx-deployment
+> kubectl apply -f https://k8s.io/examples/application/deployment.yaml
+> kubectl describe deployment nginx-deployment
 
 ## Nodes
 
