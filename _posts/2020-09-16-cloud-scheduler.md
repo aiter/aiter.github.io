@@ -9,18 +9,19 @@ tags: [cloud]
 {% include codepiano/setup %}
 
 ### keywords
+
 * scheduler
 * placement
 * allocation
 
-
 ### references
+
 * dynamic placement for clustered web applications
 * Entropy- a Consolidation Manager for Clusters
 * A scalable application placement controller for enterprise data centers
 
-
 决定每个应用启动多少实例和放在那台机器上
+
 * A Scalable Application Placement Controller for Enterprise Data Centers
 解决的问题：
   30秒内，上千的机器和上千实例高质量的放置方案。 应用的动态扩缩容。
@@ -28,15 +29,16 @@ tags: [cloud]
   * 最少启动、停止应用
   * 物理机的均衡度
 
-  > The placement problem is NP hard. 
+  > The placement problem is NP hard.
   > * approximation algorithms 近似算法
   [6] A. Karve, T. Kimbrel, G. Pacifici, M. Spreitzer,
 M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Clustered Web Applications. In the International World Wide Web Conference (WWW), May 2006.
   [8] T. Kimbrel, M. Steinder, M. Sviridenko, and A. N. Tantawi. Dynamic Application Placement Under Service and Memory Constraints. In International Workshop on Efficient and Experimental Algorithms, 2005.
 
 #### Objective Virtual Machine Placement in Virtualized Data Center Environments
- * In this paper, a two-level control system is proposed to manage the mappings of workloads to VMs and VMs to physical resources.
- * a multi-objective optimization problem
+
+* In this paper, a two-level control system is proposed to manage the mappings of workloads to VMs and VMs to physical resources.
+* a multi-objective optimization problem
   * minimizing total resource wastage  资源最小浪费
   * power consumption  电量消耗少
   * thermal dissipation costs 热能消耗(需要冷却系统来保证机房在安全温度)
@@ -69,6 +71,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Dynamic VM placement，动态放置(迁移)
 
 ### 章节详细记录
+
 * [2]background
 * [3]framework
 * [4]描述问题和提议的解法
@@ -77,28 +80,31 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 * [7]总结论文
 
 [2] background
+
 * combinatorial optimization
 * multi-objective optimization and fuzzy logic
 
 * combinatorial optimization（组合优化） and genetic algorithms（遗传算法）
- * NP-hard:scheduling/packing/placement
- * Heuristic techniques(启发式算法/方法/技术)，求解近似解      solving optimization problems in an approximate way / global optimal solutions
- * genetic algorithms(遗传算法),能很好的解决 combinatorial problem(组合问题)
+  * NP-hard:scheduling/packing/placement
+  * Heuristic techniques(启发式算法/方法/技术)，求解近似解      solving optimization problems in an approximate way / global optimal solutions
+  * genetic algorithms(遗传算法),能很好的解决 combinatorial problem(组合问题)
 
 [4]
+
 * Grouping Genetic Algorithm
 * ranking-crossover, 不直接使用随机的crossover
 
-  #### 虚拟化的收益
+#### 虚拟化的收益
+
   > 降低成本，更少的机器、更少的电力消耗，更少的冷却系统，物理空间等
 
   ### 启发法(Heuristic techniques)
-   * 不保证最优、完美、最合理
-   * 足够快速、短期目标、近似解法
-   * 搜索最优解释不可能或者不可实现(NP hard),启发法可以用来加速搜索满意的解
-   * 
+ * 不保证最优、完美、最合理
+ * 足够快速、短期目标、近似解法
+ * 搜索最优解释不可能或者不可实现(NP hard),启发法可以用来加速搜索满意的解
 
 ### NP hard
+
   > 很多组合问题(combinatorial problems)被分类为NP-hard
   > * 调度（scheduling）
   > * 装箱(bin packing)
@@ -114,7 +120,6 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * ThermalEmergency
     * Resource Contention
     * Low Energy Efficiency
-
 
   * Condition Detection  （trigger a VM-migration） 
     * 怎么检测准确，避免无效的迁移
@@ -250,6 +255,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 
 《Borg, Omega, and Kubernetes》
 > Borg 和 Kubernetes 介绍比较多。 Omega相对比较少
+>
 > * container 管理系统
 
 * Borg-> Omega-> Kubernetes
@@ -262,9 +268,10 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
   * Don’t just number containers: give them labels
   * Be careful with ownership
   * Don’t expose raw state
- 
+
  《An Overview of Openstack Architecture》
- * modular & highly configurable architecture
+
+* modular & highly configurable architecture
 
  * Computing
   * Nova:
@@ -298,7 +305,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
 * descheduling & coscheduling
 
 * Related work
-  * VSphere’s resource management system is the Distributed Resource Scheduler (DRS) 
+  * VSphere’s resource management system is the Distributed Resource Scheduler (DRS)
   * Microsoft Sys- tems Center (MSC)
 
   * OpenStack
@@ -317,7 +324,7 @@ M. Steinder, M. Sviridenko, and A. Tantawi. Dynamic Application Placement for Cl
     * placement
       * migration
     * Cinder Scheduler
-    
+
     * Keystone: Authentication service.
     * Glance: mirroring service.
     * Nova: Computing services.
