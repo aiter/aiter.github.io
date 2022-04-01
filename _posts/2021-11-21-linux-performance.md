@@ -17,6 +17,7 @@ tags: [linux,vmstat,pidstat,iostat]
 
 * Cpusets
 * cpu share
+* cgroup
 
 ## Gcc & Clang/LLVM
 
