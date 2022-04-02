@@ -15,9 +15,10 @@ tags: [linux,vmstat,pidstat,iostat]
 * pidstat
 * iostat
 
-* Cpusets
-* cpu share
 * cgroup
+* cfs_period/quota
+* cpu shares
+* Cpusets
 
 ## Gcc & Clang/LLVM
 
