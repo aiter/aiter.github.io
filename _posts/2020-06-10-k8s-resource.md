@@ -17,6 +17,10 @@ tags: [k8s,kubernetes,crd,resource]
 
 ## Nodes
 
+### tools
+
+* kubeadm
+
 ### components
 
 * kubelet
