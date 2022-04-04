@@ -186,3 +186,7 @@ tags: [k8s,kubernetes,crd,resource]
 ## docker
 
 [docker instructions](https://docs.docker.com/engine/reference/builder/#from)
+
+* cpu
+* cpushare
+* cpuset
