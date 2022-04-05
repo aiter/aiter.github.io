@@ -142,9 +142,11 @@ tags: [k8s,kubernetes,crd,resource]
 * 容器资源监控
 * 集群级别的日志
 
-## k8s API
+## k8s APIserver
 
 > 暴露http的接口。终端用户、集群中的不同部分、其他一些组件
+
+### kubectl
 
 ### API如何兼容老版本
 
