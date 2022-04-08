@@ -19,6 +19,7 @@ tags: [linux,vmstat,pidstat,iostat]
 * cfs_period/quota
 * cpu shares
 * Cpusets
+* cfs/rt
 
 ## Gcc & Clang/LLVM
 
