@@ -10,7 +10,21 @@ tags: [linux,vmstat,pidstat,iostat]
 
 ## linux 性能分析
 
-* vmstat
+## cpu 信息
+
+us - Time spent in user space
+sy - Time spent in kernel space
+ni - Time spent running niced user processes (User defined priority)
+id - Time spent in idle operations
+wa - Time spent on waiting on IO peripherals (eg. disk)
+hi - Time spent handling hardware interrupt routines. (Whenever a peripheral unit want attention form the CPU, it literally pulls a line, to signal the CPU to service it)
+si - Time spent handling software interrupt routines. (a piece of code, calls an interrupt routine...)
+st - Time spent on involuntary waits by virtual cpu while hypervisor is servicing another processor (stolen from a virtual machine)
+
+* vmstat : Report virtual memory statistics
+
+> processes, memory, paging, block IO, traps, disks and cpu activity
+
 * mpstat
 * pidstat
 * iostat
@@ -36,3 +50,6 @@ tags: [linux,vmstat,pidstat,iostat]
 [LVS](https://cloud.tencent.com/developer/article/1115754)
 
 [worker_cpu_affinity](http://nginx.org/en/docs/ngx_core_module.html#worker_cpu_affinity)
+
+[I’ll Do It Later: Softirqs, Tasklets, Bottom Halves, Task Queues,
+Work Queues and Timers](https://www.cs.unca.edu/brock/classes/Spring2013/csci331/notes/paper-1130.pdf)
