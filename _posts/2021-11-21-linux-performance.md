@@ -10,7 +10,23 @@ tags: [linux,vmstat,pidstat,iostat]
 
 ## linux 性能分析
 
-## cpu 信息
+### 相关工具
+
+#### 压测工具
+
+* stress: A tool to put given subsystems under a specified load
+
+#### 性能监控工具
+
+* sysstat: Collection of performance monitoring tools for Linux
+  * mpstat
+  * pidstat
+  * iostat
+  * sar
+
+> rpm -ql sysstat|grep bin
+
+### cpu 信息
 
 us - Time spent in user space
 sy - Time spent in kernel space
@@ -24,10 +40,6 @@ st - Time spent on involuntary waits by virtual cpu while hypervisor is servicin
 * vmstat : Report virtual memory statistics
 
 > processes, memory, paging, block IO, traps, disks and cpu activity
-
-* mpstat
-* pidstat
-* iostat
 
 * cgroup
 * cfs_period/quota
