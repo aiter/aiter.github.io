@@ -19,10 +19,10 @@ tags: [linux,vmstat,pidstat,iostat]
 #### 性能监控工具
 
 * sysstat: Collection of performance monitoring tools for Linux
-  * mpstat
-  * pidstat
-  * iostat
-  * sar
+  * mpstat : Report processors related statistics.
+  * pidstat : Report statistics for Linux tasks.
+  * iostat :  Report Central Processing Unit (CPU) statistics and input/output statistics for devices and partitions.
+  * sar : Collect, report, or save system activity information.
 
 > rpm -ql sysstat|grep bin
 
