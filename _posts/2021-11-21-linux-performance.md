@@ -65,3 +65,5 @@ st - Time spent on involuntary waits by virtual cpu while hypervisor is servicin
 
 [I’ll Do It Later: Softirqs, Tasklets, Bottom Halves, Task Queues,
 Work Queues and Timers](https://www.cs.unca.edu/brock/classes/Spring2013/csci331/notes/paper-1130.pdf)
+
+[bandwith control](https://www.kernel.org/doc/html/latest/scheduler/sched-bwc.html)
