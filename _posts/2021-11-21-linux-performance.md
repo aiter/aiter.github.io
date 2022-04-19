@@ -47,6 +47,8 @@ st - Time spent on involuntary waits by virtual cpu while hypervisor is servicin
 * Cpusets
 * cfs/rt
 
+Burst feature
+
 ## Gcc & Clang/LLVM
 
 [cgroup](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
