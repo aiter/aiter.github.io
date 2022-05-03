@@ -47,6 +47,8 @@ st - Time spent on involuntary waits by virtual cpu while hypervisor is servicin
 * Cpusets
 * cfs/rt
 
+* cpu utility
+
 Burst feature
 
 ## Gcc & Clang/LLVM
