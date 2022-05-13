@@ -59,6 +59,11 @@ Burst feature
 
 ## Gcc & Clang/LLVM
 
+## Storage
+
+* Buffer   --> Disk
+* Cache   --> File System
+
 [cgroup](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
 
 [clang-and-llvm-and-gcc](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
