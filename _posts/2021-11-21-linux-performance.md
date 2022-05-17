@@ -52,6 +52,9 @@ st - Time spent on involuntary waits by virtual cpu while hypervisor is servicin
 ## Memory
 
 * 大页内存
+* 代码段
+* RO data
+* RW data
 
 ## GPU/FPGA/TPU/ASIC
 
