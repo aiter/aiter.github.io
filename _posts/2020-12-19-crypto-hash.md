@@ -271,3 +271,4 @@ Attacks
 12. [mac](https://en.wikipedia.org/wiki/Message_authentication_code)
 13. [Message Authentication](https://www.tutorialspoint.com/cryptography/message_authentication.htm)
 14. [Cryptography Hash functions](https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm)
+15. [Authentication vs. Authorization](https://www.onelogin.com/learn/authentication-vs-authorization)
