@@ -64,6 +64,8 @@ Comaring RTMP vs. HLS vs. WebRTC
 * over HTTP
 * ws/wss
 
+## container format
+
 ### Design Philosophy
 
 > there should be minimal framing
