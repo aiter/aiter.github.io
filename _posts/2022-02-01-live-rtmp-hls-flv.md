@@ -88,8 +88,11 @@ Comaring RTMP vs. HLS vs. WebRTC
 
 ### Subprotocols Using the WebSocket Protocol
 
-[RTMP](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol)
-[HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
-[WebRTC](https://en.wikipedia.org/wiki/WebRTC)
-[WebSocket](https://en.wikipedia.org/wiki/WebSocket)
-[The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
+### references
+
+* [RTMP](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol)
+* [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+* [WebRTC](https://en.wikipedia.org/wiki/WebRTC)
+* [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+* [The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
+* [aws-live-streaming](https://aws.amazon.com/cn/blogs/media/awse-choosing-aws-live-streaming-solution-for-use-case/)
