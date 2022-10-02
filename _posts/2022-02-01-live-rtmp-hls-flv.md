@@ -96,3 +96,4 @@ Comaring RTMP vs. HLS vs. WebRTC
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 * [The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
 * [aws-live-streaming](https://aws.amazon.com/cn/blogs/media/awse-choosing-aws-live-streaming-solution-for-use-case/)
+* [DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
