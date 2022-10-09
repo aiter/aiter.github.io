@@ -36,14 +36,3 @@ tags: [algorithm]
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
 * [hadoop Yarn](https://github.com/apache/hadoop/tree/trunk/hadoop-yarn-project)
-
-| English      | 中文 | 描述|
-| ----------- | ----------- |----------- |
-| variables      | 变量       | |
-| Static variables   | 静态变量        |所有实例，能被修改，is stored on the data segment area of memory and the same value is get shared to all instances of that class|
-| Constant variables | 常量/恒定变量 |每个实例"一份",但是不能修改值|
-| Static Constant variables | 静态常量 |所有实例只有“一份”，而且不能修改|
-| Constant pool | 常量池 |holds all the constants (integer, string, etc.);不是java对象；是在class文件中(loading过程)|
-| String pool | string literal | 只有string;java对象 |
-
-* [jvms Constant pool](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html#jvms-4.4)
