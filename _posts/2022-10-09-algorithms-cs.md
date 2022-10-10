@@ -32,6 +32,10 @@ tags: [algorithm]
 > * 主资源：与主资源公平调度算法中的主资源逻辑保持不变
 > * share值：用户分得的主资源累积值占其维度资源总量的百分比，再除以用户的权重占整体权重的百分比。
 
+#### Asset Fairness
+
+#### Competitive Equilibrium from Equal Incomes (CEEI)
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
