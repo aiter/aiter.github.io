@@ -36,6 +36,13 @@ tags: [algorithm]
 
 #### Competitive Equilibrium from Equal Incomes (CEEI)
 
+#### DRF
+
+* sharing incentive,资源要共池、共享
+* strategy-proof,策略防护，用户不能通过欺骗获取更多的资源
+* envy-free, 不羡慕/嫉妒其他用户分配的资源
+* Pareto efficient, 别的用户不降低/释放资源的话，不能提高自己的资源分配量
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
