@@ -43,6 +43,13 @@ tags: [algorithm]
 * envy-free, 不羡慕/嫉妒其他用户分配的资源
 * Pareto efficient, 别的用户不降低/释放资源的话，不能提高自己的资源分配量
 
+##### nice-to-have
+
+* Single resource fairness 只有一种资源，降级到Max-min
+* Bottleneck fairness 都需求一种资源，降级到Max-min
+* Population monotonicity 有用户退出系统、放弃拥有的资源，其他的用户不必放弃/减少自己的资源
+* Resource monotonicity 有资源加入到系统/集群，其他的用户不必放弃/减少自己的资源
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
