@@ -50,6 +50,11 @@ tags: [algorithm]
 * Population monotonicity 有用户退出系统、放弃拥有的资源，其他的用户不必放弃/减少自己的资源
 * Resource monotonicity 有资源加入到系统/集群，其他的用户不必放弃/减少自己的资源
 
+#### 对比
+
+* Asset Fairness
+* Competitive Equilibrium from Equal Incomes
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
