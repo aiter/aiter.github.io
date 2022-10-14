@@ -55,6 +55,13 @@ tags: [algorithm]
 * Asset Fairness
 * Competitive Equilibrium from Equal Incomes
 
+#### properties
+
+* Every user in a DRF allocation has at least one saturated resource.
+* DRF satisfies the sharing incentive and bottleneck fairness properties.
+* DRF is Pareto efficient.
+* Every DRF allocation is envy-free.
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
