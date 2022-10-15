@@ -61,6 +61,9 @@ tags: [algorithm]
 * DRF satisfies the sharing incentive and bottleneck fairness properties.
 * DRF is Pareto efficient.
 * Every DRF allocation is envy-free.
+* (Strategy-proofness) A user cannot in- crease her dominant share in DRF by altering her true demand vector.
+* Given strictly positive demand vectors, DRF guarantees that every user gets the same dominant share, i.e., every DRF allocation ensures si = sj , for all users i and j .
+* Given strictly positive demands, DRF sat- isfies population monotonicity.
 
 ### 参考 Referrences
 
