@@ -61,6 +61,8 @@ tags: [algorithm]
 * Given strictly positive demand vectors, DRF guarantees that every user gets the same dominant share, i.e., every DRF allocation ensures si = sj , for all users i and j .
 * Given strictly positive demands, DRF sat- isfies population monotonicity.
 
+#### Hawk: Hybrid Datacenter Scheduling
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
