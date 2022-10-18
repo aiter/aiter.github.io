@@ -63,6 +63,8 @@ tags: [algorithm]
 
 #### Hawk: Hybrid Datacenter Scheduling
 
+* 混合调度器(hybrid). 中心负责长时间运行的job，分布式调度器负责短时job
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
