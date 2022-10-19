@@ -31,6 +31,8 @@ tags: [network,dns,bgp,ddos]
 
 ## TLD server
 
+## Akamai DNS
+
 ## references
 
 * [rfc1034 DNS](https://datatracker.ietf.org/doc/html/rfc1034)
@@ -38,3 +40,4 @@ tags: [network,dns,bgp,ddos]
 * [what-is-the-difference-between-authoritative-and-recursive-dns-nameservers)](https://umbrella.cisco.com/blog/what-is-the-difference-between-authoritative-and-recursive-dns-nameservers)
 * [dns-zone](https://www.cloudflare.com/zh-cn/learning/dns/glossary/dns-zone/)
 * [dns-root-server](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/)
+* Akamai DNS: Providing Authoritative Answers to the World’s Queries
