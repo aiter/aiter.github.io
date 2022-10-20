@@ -16,7 +16,11 @@ tags: [network,dns,bgp,ddos]
 
 ### TLD nameserver
 
+### 什么是ASN
+
 ### 什么是任播(Anycast)DNS?
+
+> 实际是 IP Anycast
 
 任播指一个IP可以应用到多个服务器上
 
