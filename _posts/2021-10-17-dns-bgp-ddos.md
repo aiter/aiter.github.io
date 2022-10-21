@@ -20,7 +20,12 @@ tags: [network,dns,bgp,ddos]
 
 ### 什么是任播(Anycast)DNS?
 
-> 实际是 IP Anycast
+> UniCast 单播
+> MultiCast 多播
+> BroadCast 广播
+> 实际是 BGP Anycast 任意播或泛播
+> AnyCast IP拥有MultiCast和UniCast各自的部分特性：
+> 主要靠BGP的路由协议，有多个相同的ip的server，路由协议找到“最近”的一台server
 
 任播指一个IP可以应用到多个服务器上
 
