@@ -40,7 +40,41 @@ tags: [network,dns,bgp,ddos]
 
 ## TLD server
 
-## Akamai DNS
+### Akamai
+
+* 2. INTERNET APPLICATION REQUIREMENTS
+* 3. INTERNETDELIVERYCHALLENGES
+* 4. DELIVERY NETWORK OVERVIEW
+* 4.1 Delivery Networks as Virtual Networks
+* 4.2 Anatomy of a Delivery Network
+* 4.3 System Design Principles
+* 5. HIGH-PERFORMANCE STREAMING AND CONTENT DELIVERY NETWORKS
+* 5.1 Video-grade Scalability
+* 5.2 StreamingPerformance
+* 5.3 A Transport System for Contentand Streaming Media Delivery
+* 6. HIGH-PERFORMANCE APPLICATION DELIVERY NETWORKS
+* 6.1 A Transport System for Application Acceleration
+
+* 7.1 Edge Server Platform
+* 7.2 Mapping System
+* 7.3 Communications and Control System
+* 7.4 Data Collection and Analysis System
+* 7.5 Additional Systems and Services
+* 8. EXAMPLE:MULTI-LEVEL FAILOVER
+
+### Akamai DNS:Providing Authoritative Answers to the World’s Queries
+
+* 2 CHARACTERIZING QUERY TRAFFIC
+* 3 SYSTEM ARCHITECTURE
+* 3.1 Authoritative Nameservers
+* 3.2 Supporting Components
+* 4 RESILIENCY
+* 4.1 Anycast Failover Mechanism
+* 4.2 Failure Resiliency
+* 4.3 Attack Resiliency
+* 5 DNS PERFORMANCE
+* 5.1 Anycast Performance Tuning
+* 5.2 Two-Tier Delegation System
 
 ## references
 
