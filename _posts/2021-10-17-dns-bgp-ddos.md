@@ -42,6 +42,7 @@ tags: [network,dns,bgp,ddos]
 
 ### Akamai
 
+* Keywords  Akamai, CDN, overlay networks, application acceleration, HTTP, DNS, content delivery, quality of service, streaming media
 * 2. INTERNET APPLICATION REQUIREMENTS
 * 3. INTERNETDELIVERYCHALLENGES
 * 4. DELIVERY NETWORK OVERVIEW
