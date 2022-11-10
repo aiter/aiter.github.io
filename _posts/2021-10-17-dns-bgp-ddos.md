@@ -55,7 +55,8 @@ tags: [network,dns,bgp,ddos]
 * 5.3 A Transport System for Contentand Streaming Media Delivery
 * 6. HIGH-PERFORMANCE APPLICATION DELIVERY NETWORKS
 * 6.1 A Transport System for Application Acceleration
-
+* 6.2 Distributing Applications to the Edge
+* 7. PLATFORM COMPONENTS
 * 7.1 Edge Server Platform
 * 7.2 Mapping System
 * 7.3 Communications and Control System
