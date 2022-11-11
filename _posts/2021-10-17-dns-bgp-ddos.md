@@ -78,6 +78,8 @@ tags: [network,dns,bgp,ddos]
 * 5.1 Anycast Performance Tuning
 * 5.2 Two-Tier Delegation System
 
+### End-User Mapping: Next Generation Request Routing for Content Delivery
+
 ## references
 
 * [rfc1034 DNS](https://datatracker.ietf.org/doc/html/rfc1034)
