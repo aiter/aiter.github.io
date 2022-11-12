@@ -80,6 +80,10 @@ tags: [network,dns,bgp,ddos]
 
 ### End-User Mapping: Next Generation Request Routing for Content Delivery
 
+* 2. THE MAPPING SYSTEM
+* 2.1 End-User Mapping
+* 2.2 Mapping System Architecture
+
 ## references
 
 * [rfc1034 DNS](https://datatracker.ietf.org/doc/html/rfc1034)
