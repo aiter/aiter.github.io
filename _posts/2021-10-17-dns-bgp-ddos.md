@@ -83,6 +83,7 @@ tags: [network,dns,bgp,ddos]
 * 2. THE MAPPING SYSTEM
 * 2.1 End-User Mapping
 * 2.2 Mapping System Architecture
+* 3. UNDERSTANDING CLIENTS AND THEIR NAME SERVERS
 
 ## references
 
