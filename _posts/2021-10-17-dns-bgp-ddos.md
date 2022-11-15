@@ -85,6 +85,7 @@ tags: [network,dns,bgp,ddos]
 * 2.2 Mapping System Architecture
 * 3. UNDERSTANDING CLIENTS AND THEIR NAME SERVERS
 * 3.1 Collecting Client-LDNS pairs
+* 3.2 How far are clients from their LDNSes
 
 ## references
 
