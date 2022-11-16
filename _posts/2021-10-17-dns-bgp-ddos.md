@@ -86,6 +86,7 @@ tags: [network,dns,bgp,ddos]
 * 3. UNDERSTANDING CLIENTS AND THEIR NAME SERVERS
 * 3.1 Collecting Client-LDNS pairs
 * 3.2 How far are clients from their LDNSes
+* 3.3 How far are clients that use the same LDNS from each other?
 
 ## references
 
