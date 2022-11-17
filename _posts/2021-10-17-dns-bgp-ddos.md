@@ -87,6 +87,8 @@ tags: [network,dns,bgp,ddos]
 * 3.1 Collecting Client-LDNS pairs
 * 3.2 How far are clients from their LDNSes
 * 3.3 How far are clients that use the same LDNS from each other?
+* 4. PERFORMANCE IMPACT
+* 4.1 Performance metrics
 
 ## references
 
