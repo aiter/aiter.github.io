@@ -90,6 +90,7 @@ tags: [network,dns,bgp,ddos]
 * 4. PERFORMANCE IMPACT
 * 4.1 Performance metrics
 * 4.2 Collecting performance information
+* 4.3 Performance Analysis
 
 ## references
 
