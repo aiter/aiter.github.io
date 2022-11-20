@@ -91,6 +91,8 @@ tags: [network,dns,bgp,ddos]
 * 4.1 Performance metrics
 * 4.2 Collecting performance information
 * 4.3 Performance Analysis
+* 4.4 Why Download Performance Matters
+* 4.5 The Benefits of EDNS0 Adoption
 
 ## references
 
