@@ -93,6 +93,8 @@ tags: [network,dns,bgp,ddos]
 * 4.3 Performance Analysis
 * 4.4 Why Download Performance Matters
 * 4.5 The Benefits of EDNS0 Adoption
+* 5. SCALING CHALLENGES
+* 5.1 Tradeoffs in choosing the mapping units
 
 ## references
 
