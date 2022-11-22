@@ -95,6 +95,7 @@ tags: [network,dns,bgp,ddos]
 * 4.5 The Benefits of EDNS0 Adoption
 * 5. SCALING CHALLENGES
 * 5.1 Tradeoffs in choosing the mapping units
+* 5.2 Dealing with greater DNS query rates
 
 ## references
 
