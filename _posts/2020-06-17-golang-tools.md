@@ -138,4 +138,6 @@ golang使用逻辑的处理器概念。
 
 ### 协程与锁
 
+* on the train
+
 [Goroutines](https://golangbot.com/goroutines/)
