@@ -140,4 +140,6 @@ golang使用逻辑的处理器概念。
 
 * on the train
 
+* 泛型
+
 [Goroutines](https://golangbot.com/goroutines/)
