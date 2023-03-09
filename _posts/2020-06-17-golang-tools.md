@@ -142,5 +142,6 @@ golang使用逻辑的处理器概念。
 
 * 泛型
 * generative code
+* map(hash table)
 
 [Goroutines](https://golangbot.com/goroutines/)
