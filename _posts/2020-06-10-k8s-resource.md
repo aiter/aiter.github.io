@@ -192,3 +192,7 @@ tags: [k8s,kubernetes,crd,resource]
 * cpu
 * cpushare
 * cpuset
+
+## Ingress
+
+* [nginx ingress controller](https://docs.nginx.com/nginx-ingress-controller/intro/how-nginx-ingress-controller-works/)
