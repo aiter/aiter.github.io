@@ -271,8 +271,9 @@ tags: [cloud]
 
 ### References
 
-[1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
-[2] [Cloud Computing Resource Scheduling and a Survey of Its Evolutionary Approaches](https://core.ac.uk/download/pdf/296173442.pdf)
-[3] [architectural-diagrams](https://www.infoq.com/articles/crafting-architectural-diagrams/)
-[4] [Design for scalability](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure)
-[5] [Predictive Scaling for EC2, Powered by Machine Learning](https://aws.amazon.com/blogs/aws/new-predictive-scaling-for-ec2-powered-by-machine-learning/)
+* [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
+* [2] [Cloud Computing Resource Scheduling and a Survey of Its Evolutionary Approaches](https://core.ac.uk/download/pdf/296173442.pdf)
+* [3] [architectural-diagrams](https://www.infoq.com/articles/crafting-architectural-diagrams/)
+* [4] [Design for scalability](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure)
+* [5] [Predictive Scaling for EC2, Powered by Machine Learning](https://aws.amazon.com/blogs/aws/new-predictive-scaling-for-ec2-powered-by-machine-learning/)
+* [6][aws lambda](https://aws.amazon.com/lambda/)
