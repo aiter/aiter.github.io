@@ -277,3 +277,4 @@ tags: [cloud]
 * [4] [Design for scalability](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure)
 * [5] [Predictive Scaling for EC2, Powered by Machine Learning](https://aws.amazon.com/blogs/aws/new-predictive-scaling-for-ec2-powered-by-machine-learning/)
 * [6][aws lambda](https://aws.amazon.com/lambda/)
+* [7] [GCP Funtions]
