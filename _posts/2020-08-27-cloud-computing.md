@@ -278,3 +278,4 @@ tags: [cloud]
 * [5] [Predictive Scaling for EC2, Powered by Machine Learning](https://aws.amazon.com/blogs/aws/new-predictive-scaling-for-ec2-powered-by-machine-learning/)
 * [6][aws lambda](https://aws.amazon.com/lambda/)
 * [7] [GCP Funtions]
+* [8] [how exxx function works]
