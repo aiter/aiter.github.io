@@ -85,3 +85,5 @@ Burst feature
 Work Queues and Timers](https://www.cs.unca.edu/brock/classes/Spring2013/csci331/notes/paper-1130.pdf)
 
 [bandwith control](https://www.kernel.org/doc/html/latest/scheduler/sched-bwc.html)
+
+[tcp keepalive](https://tldp.org/HOWTO/TCP-Keepalive-HOWTO/overview.html)
