@@ -87,3 +87,5 @@ Work Queues and Timers](https://www.cs.unca.edu/brock/classes/Spring2013/csci331
 [bandwith control](https://www.kernel.org/doc/html/latest/scheduler/sched-bwc.html)
 
 [tcp keepalive](https://tldp.org/HOWTO/TCP-Keepalive-HOWTO/overview.html)
+
+[Bash Beginner](https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
