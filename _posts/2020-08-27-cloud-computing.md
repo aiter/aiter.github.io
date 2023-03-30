@@ -274,6 +274,8 @@ tags: [cloud]
 ### Function compute
 
 * aws lambda
+* GCP Function
+* Azure Function
 
 ### References
 
