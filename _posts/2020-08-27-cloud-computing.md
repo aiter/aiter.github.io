@@ -277,6 +277,8 @@ tags: [cloud]
 * GCP Function
 * Azure Function
 
+* trigger
+
 ### References
 
 * [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
