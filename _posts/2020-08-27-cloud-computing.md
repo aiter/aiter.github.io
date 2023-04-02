@@ -281,6 +281,10 @@ tags: [cloud]
 
 ### Containers at AWS
 
+### Gateway
+
+* Higress
+
 ### References
 
 * [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
@@ -291,3 +295,4 @@ tags: [cloud]
 * [6][aws lambda](https://aws.amazon.com/lambda/)
 * [7] [GCP Funtions]
 * [8] [how exxx function works]
+* [9] [higress](https://higress.io/zh-cn/docs/overview/what-is-higress.html)
