@@ -283,6 +283,7 @@ tags: [cloud]
 
 ### Gateway
 
+* ingress/egress
 * Higress
 
 ### References
