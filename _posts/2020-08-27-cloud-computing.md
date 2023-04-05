@@ -286,6 +286,10 @@ tags: [cloud]
 * ingress/egress
 * Higress
 
+### mesh
+
+* istio
+* envoy
 
 ### References
 
