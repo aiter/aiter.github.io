@@ -302,6 +302,10 @@ tags: [cloud]
 
 [gargate](https://aws.amazon.com/fargate/?did=ap_card&trk=ap_card)
 
+#### Amazon Elastic Kubernetes Service (EKS)
+
+[eks](https://aws.amazon.com/eks/?nc2=h_ql_prod_ct_eks)
+
 ### References
 
 * [1] [Dynamic Resource Allocation by Using Elastic Compute Cloud Service](http://www.rroij.com/open-access/dynamic-resource-allocation-by-using-elasticcompute-cloud-service.pdf)
