@@ -329,6 +329,8 @@ tags: [cloud]
 ### service mesh
 
 包粒度重传
+3/4/7 gateway
+api gateway
 
 ### References
 
