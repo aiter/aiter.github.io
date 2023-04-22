@@ -346,3 +346,4 @@ lvs
 * [8] [how exxx function works]
 * [9] [higress](https://higress.io/zh-cn/docs/overview/what-is-higress.html)
 * [10] [service mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+* [11] [Implementing Data Center Overlay Protocols](https://www.ciscopress.com/articles/article.asp?p=2999385&seqNum=3)
