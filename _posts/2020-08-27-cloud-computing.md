@@ -347,3 +347,4 @@ lvs
 * [9] [higress](https://higress.io/zh-cn/docs/overview/what-is-higress.html)
 * [10] [service mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
 * [11] [Implementing Data Center Overlay Protocols](https://www.ciscopress.com/articles/article.asp?p=2999385&seqNum=3)
+* [12] [vlan互访](https://support.huawei.com/enterprise/zh/doc/EDOC1000178154/a592c01f)
