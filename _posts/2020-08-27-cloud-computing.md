@@ -348,3 +348,5 @@ lvs
 * [10] [service mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
 * [11] [Implementing Data Center Overlay Protocols](https://www.ciscopress.com/articles/article.asp?p=2999385&seqNum=3)
 * [12] [vlan互访](https://support.huawei.com/enterprise/zh/doc/EDOC1000178154/a592c01f)
+* [13] [http2](https://web.dev/performance-http2/)
+* [14] [grpc-nginx](https://www.nginx.com/blog/nginx-1-13-10-grpc/)
