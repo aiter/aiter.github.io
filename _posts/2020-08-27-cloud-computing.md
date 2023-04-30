@@ -342,6 +342,8 @@ lvs
 ### CPU scheduler
 
 * CFS
+* period & quota
+* cpu.shares
 
 ### References
 
