@@ -345,6 +345,7 @@ lvs
 * period & quota
 * cpu.shares
 * affinity
+* isolation
 
 ### References
 
