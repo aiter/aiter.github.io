@@ -295,6 +295,7 @@ tags: [cloud]
 
 * upstream
 * proxy pass
+* http/3 QUIC
 
 ### AWS
 
