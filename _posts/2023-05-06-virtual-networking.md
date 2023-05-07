@@ -17,3 +17,4 @@ tags: [interface,networking]
 ## veth-pair
 
 * [tun/tap & veth-pair](https://www.sobyte.net/post/2022-07/cloud-native-virtual-networking/)
+* [flannel](https://github.com/flannel-io/flannel#deploying-flannel-manually)
