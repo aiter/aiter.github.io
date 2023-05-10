@@ -16,6 +16,10 @@ tags: [interface,networking]
 
 ## veth-pair
 
+## veth-pair + bridge
+
+### vxlan
+
 ## Network Policies k8s
 
 * [tun/tap & veth-pair](https://www.sobyte.net/post/2022-07/cloud-native-virtual-networking/)
