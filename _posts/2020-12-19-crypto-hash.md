@@ -257,6 +257,8 @@ Attacks
 * Passive Attacks ： “偷看”未授权的信息
 * Active Attacks：修改信息
 
+casbin
+
 1. [checksum](https://en.wikipedia.org/wiki/Checksum)
 2. [hash_function](https://en.wikipedia.org/wiki/Hash_function)
 3. [base64](https://en.wikipedia.org/wiki/Base64)
@@ -274,3 +276,4 @@ Attacks
 15. [Authentication vs. Authorization](https://www.onelogin.com/learn/authentication-vs-authorization)
 16. [rfc6749 Oauth](https://www.rfc-editor.org/rfc/rfc6749)
 17. [rfc7519](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#rfc.section.4.1.4)
+18. [casbin](https://casbin.org/
