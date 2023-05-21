@@ -276,4 +276,4 @@ casbin
 15. [Authentication vs. Authorization](https://www.onelogin.com/learn/authentication-vs-authorization)
 16. [rfc6749 Oauth](https://www.rfc-editor.org/rfc/rfc6749)
 17. [rfc7519](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html#rfc.section.4.1.4)
-18. [casbin](https://casbin.org/
+18. [casbin](https://casbin.org/)

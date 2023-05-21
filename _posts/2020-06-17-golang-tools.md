@@ -113,6 +113,11 @@ golang使用逻辑的处理器概念。
 * array
 * slice
 
+### map
+
+* 非线程安全
+* syn.Map
+
 ### channel
 
 * channel
