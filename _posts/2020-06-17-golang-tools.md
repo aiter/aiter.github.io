@@ -151,4 +151,6 @@ golang使用逻辑的处理器概念。
 
 ### casbin
 
+### trace
+
 [Goroutines](https://golangbot.com/goroutines/)
