@@ -153,4 +153,5 @@ golang使用逻辑的处理器概念。
 
 ### trace
 
-[Goroutines](https://golangbot.com/goroutines/)
+* [Goroutines](https://golangbot.com/goroutines/)
+* [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
