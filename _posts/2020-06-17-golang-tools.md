@@ -155,6 +155,7 @@ golang使用逻辑的处理器概念。
 
 * opentracing
 * opentelemetry
+* opencensus
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
