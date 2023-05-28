@@ -104,6 +104,7 @@ $go mod vendor
 * 嵌入类型(内部类型属性提升到外部类型)
 * public & private
 * 函数及方法
+* 
 
 ### goroutine
 
