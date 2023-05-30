@@ -92,6 +92,16 @@ tags: [java,jvm,gc]
 * 最终标记 Final Marking
 * 筛选回收 Live Data Counting and Evacuation
 
+## javaagent
+
+* JDK动态代理
+* ASM
+* Javassist
+* Byte Buddy
+* Cglib
+* AspectJ
+
 ## links
 
-[Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+* [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+* [深入 OpenTelemetry 源代码：Java 探针的实现和二次开发](https://www.infoq.cn/article/sLiRwa72fHzWvzC2HmKf)
