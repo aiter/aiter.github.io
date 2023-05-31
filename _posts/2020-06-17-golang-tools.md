@@ -134,6 +134,8 @@ golang使用逻辑的处理器概念。
    ch := make(chan int, 2)
 ```
 
+* 用channel并发编程，和内存共享的差异
+
 ### pool
 
 ### system modules
