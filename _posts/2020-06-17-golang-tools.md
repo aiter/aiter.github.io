@@ -136,6 +136,8 @@ golang使用逻辑的处理器概念。
 
 * 用channel并发编程，和内存共享的差异
 
+sync.Mutex & sync.Cond
+
 ### pool
 
 ### system modules
