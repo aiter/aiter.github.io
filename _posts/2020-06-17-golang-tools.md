@@ -155,6 +155,8 @@ sync.Mutex & sync.Cond
 * generative code
 * map(hash table)
 
+### error
+
 ### casbin
 
 ### trace
