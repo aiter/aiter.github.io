@@ -106,6 +106,8 @@ $go mod vendor
 * 函数及方法
 * 接口要小
 
+### Pointers & Values parameters
+
 ### goroutine
 
 golang使用逻辑的处理器概念。
