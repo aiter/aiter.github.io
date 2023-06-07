@@ -167,5 +167,7 @@ sync.Mutex & sync.Cond
 * opentelemetry
 * opencensus
 
+* trace id format
+
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
