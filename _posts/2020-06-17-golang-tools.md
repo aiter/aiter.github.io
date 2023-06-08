@@ -168,6 +168,7 @@ sync.Mutex & sync.Cond
 * opencensus
 
 * trace id format
+* zipkin/jaeger
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
