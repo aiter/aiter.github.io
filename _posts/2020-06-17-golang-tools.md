@@ -169,6 +169,8 @@ sync.Mutex & sync.Cond
 
 * trace id format
 * zipkin/jaeger
+* skywalking
+* opentelemetry agent & sdk
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
