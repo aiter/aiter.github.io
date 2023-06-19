@@ -171,6 +171,7 @@ sync.Mutex & sync.Cond
 * zipkin/jaeger
 * skywalking
 * opentelemetry agent & sdk
+* oltp
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
