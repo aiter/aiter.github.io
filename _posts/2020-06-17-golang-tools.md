@@ -177,5 +177,8 @@ sync.Mutex & sync.Cond
 * IaC
 * Oam
 
+* CI/CD tools
+* jenkins
+
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
