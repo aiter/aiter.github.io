@@ -180,6 +180,7 @@ sync.Mutex & sync.Cond
 * CI/CD tools
 * jenkins
 * certs
+* x509
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
