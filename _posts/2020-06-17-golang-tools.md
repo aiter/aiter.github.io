@@ -181,6 +181,7 @@ sync.Mutex & sync.Cond
 * jenkins
 * certs
 * x509
+* openssl
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
