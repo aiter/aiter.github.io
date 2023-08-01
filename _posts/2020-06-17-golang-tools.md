@@ -183,5 +183,7 @@ sync.Mutex & sync.Cond
 * x509
 * openssl
 
+* TLS Handshake
+
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
