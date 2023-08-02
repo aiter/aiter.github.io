@@ -187,3 +187,4 @@ sync.Mutex & sync.Cond
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
+* [TLS](https://hpbn.co/transport-layer-security-tls/)
