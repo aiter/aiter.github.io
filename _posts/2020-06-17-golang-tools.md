@@ -185,6 +185,9 @@ sync.Mutex & sync.Cond
 
 * TLS Handshake
 * ssl
+* resource allocation
+
+* Recommending
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
