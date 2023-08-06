@@ -188,6 +188,7 @@ sync.Mutex & sync.Cond
 * resource allocation
 
 * Recommending
+* GC
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
