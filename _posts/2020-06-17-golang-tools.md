@@ -190,7 +190,7 @@ sync.Mutex & sync.Cond
 * Recommending
 * GC
 * Automated planning and scheduling
-* lazy
+* writing techniques
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
