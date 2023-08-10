@@ -191,6 +191,7 @@ sync.Mutex & sync.Cond
 * GC
 * Automated planning and scheduling
 * writing techniques
+* Zero Trust
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
