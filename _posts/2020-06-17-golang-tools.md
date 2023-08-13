@@ -194,6 +194,7 @@ sync.Mutex & sync.Cond
 * Zero Trust
 
 * football
+* pursue a differnent career path
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
