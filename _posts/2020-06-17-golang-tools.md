@@ -195,6 +195,7 @@ sync.Mutex & sync.Cond
 
 * football
 * pursue a differnent career path
+* find docker images which are suitable for initialization
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
