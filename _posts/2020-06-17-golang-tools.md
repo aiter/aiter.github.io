@@ -198,6 +198,7 @@ sync.Mutex & sync.Cond
 * find docker images which are suitable for initialization
 * infinitive
 * gerund
+* name/first name=given name/last name=family name
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
