@@ -199,6 +199,7 @@ sync.Mutex & sync.Cond
 * infinitive
 * gerund
 * name/first name=given name/last name=family name
+* 
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
