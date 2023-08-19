@@ -199,7 +199,8 @@ sync.Mutex & sync.Cond
 * infinitive
 * gerund
 * name/first name=given name/last name=family name
-* 
+* By the time I'm retired, ...
+* By the time of the year, I ...
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
