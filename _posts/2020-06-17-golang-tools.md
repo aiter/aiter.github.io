@@ -205,6 +205,7 @@ sync.Mutex & sync.Cond
 * train
 * missing way
 * perspective 
+* semi-final
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
