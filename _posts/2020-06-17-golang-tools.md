@@ -191,7 +191,7 @@ sync.Mutex & sync.Cond
 * GC
 * Automated planning and scheduling
 * writing techniques
-* Zero Trust
+* Zero Trust : Never Trust, always vertify
 
 * football
 * pursue a differnent career path
