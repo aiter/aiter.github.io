@@ -207,6 +207,8 @@ sync.Mutex & sync.Cond
 * perspective 
 * semi-final
 
+* power distance
+
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
 * [TLS](https://hpbn.co/transport-layer-security-tls/)
