@@ -208,6 +208,7 @@ sync.Mutex & sync.Cond
 * semi-final
 
 * power distance
+* We are the champion
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
