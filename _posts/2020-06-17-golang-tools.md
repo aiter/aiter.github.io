@@ -209,6 +209,7 @@ sync.Mutex & sync.Cond
 
 * power distance
 * We are the champion
+* WAF/L7DDos
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
