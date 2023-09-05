@@ -211,6 +211,9 @@ sync.Mutex & sync.Cond
 * We are the champion
 * WAF/L7DDos
 
+* static website tools
+* Hugo/Jekyll
+
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
 * [TLS](https://hpbn.co/transport-layer-security-tls/)
