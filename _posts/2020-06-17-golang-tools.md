@@ -213,6 +213,7 @@ sync.Mutex & sync.Cond
 
 * static website tools
 * Hugo/Jekyll
+* arc42
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
