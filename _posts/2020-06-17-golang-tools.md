@@ -215,6 +215,8 @@ sync.Mutex & sync.Cond
 * Hugo/Jekyll
 * arc42
 
+* pixels
+
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
 * [TLS](https://hpbn.co/transport-layer-security-tls/)
