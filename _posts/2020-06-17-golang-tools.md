@@ -220,6 +220,7 @@ sync.Mutex & sync.Cond
 * Mike
 * Present Simple
 * Present Continuous
+* cover letter
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
