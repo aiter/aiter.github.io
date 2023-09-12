@@ -221,6 +221,7 @@ sync.Mutex & sync.Cond
 * Present Simple
 * Present Continuous
 * cover letter
+* google: A quarter century(25)
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
