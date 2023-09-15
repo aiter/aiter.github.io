@@ -223,6 +223,7 @@ sync.Mutex & sync.Cond
 * cover letter
 * google: A quarter century(25)
 * Pay for Double tap?
+* pop/push
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
