@@ -224,6 +224,7 @@ sync.Mutex & sync.Cond
 * google: A quarter century(25)
 * Pay for Double tap?
 * pop/push
+* volatile-lru
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
