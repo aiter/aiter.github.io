@@ -225,6 +225,7 @@ sync.Mutex & sync.Cond
 * Pay for Double tap?
 * pop/push
 * volatile-lru
+* request/response time
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
