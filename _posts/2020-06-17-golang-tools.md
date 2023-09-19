@@ -226,6 +226,7 @@ sync.Mutex & sync.Cond
 * pop/push
 * volatile-lru
 * request/response time
+* isolate worker
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
