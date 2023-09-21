@@ -228,6 +228,7 @@ sync.Mutex & sync.Cond
 * request/response time
 * isolate worker
 * web security
+* A/AAAA
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
