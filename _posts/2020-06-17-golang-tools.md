@@ -229,6 +229,7 @@ sync.Mutex & sync.Cond
 * isolate worker
 * web security
 * A/AAAA
+* DNSSEC
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
