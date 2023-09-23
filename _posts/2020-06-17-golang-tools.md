@@ -230,6 +230,7 @@ sync.Mutex & sync.Cond
 * web security
 * A/AAAA
 * DNSSEC
+* http code
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
