@@ -232,6 +232,7 @@ sync.Mutex & sync.Cond
 * DNSSEC
 * http code
 * animals
+* hook
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
