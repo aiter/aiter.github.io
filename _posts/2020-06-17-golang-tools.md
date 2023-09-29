@@ -235,6 +235,7 @@ sync.Mutex & sync.Cond
 * hook
 * publicDNS
 * DNS over HTTPS
+* Moon festival
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
