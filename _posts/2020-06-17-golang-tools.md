@@ -238,6 +238,7 @@ sync.Mutex & sync.Cond
 * Moon festival
 * Driving: L2++？
 * National day
+* Best view of North
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
