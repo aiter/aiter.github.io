@@ -239,6 +239,7 @@ sync.Mutex & sync.Cond
 * Driving: L2++？
 * National day
 * Best view of North
+* start a new journey
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
