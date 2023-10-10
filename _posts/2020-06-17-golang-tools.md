@@ -240,6 +240,7 @@ sync.Mutex & sync.Cond
 * National day
 * Best view of North
 * start a new journey
+* pages & workers
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
