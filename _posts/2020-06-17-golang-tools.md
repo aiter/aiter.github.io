@@ -241,6 +241,7 @@ sync.Mutex & sync.Cond
 * Best view of North
 * start a new journey
 * pages & workers
+* M2 Pro
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
