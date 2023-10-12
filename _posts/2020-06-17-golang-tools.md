@@ -242,6 +242,7 @@ sync.Mutex & sync.Cond
 * start a new journey
 * pages & workers
 * M2 Pro
+* registry
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
