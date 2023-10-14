@@ -243,6 +243,7 @@ sync.Mutex & sync.Cond
 * pages & workers
 * M2 Pro
 * registry
+* rotate & rolling-over
 
 * [Goroutines](https://golangbot.com/goroutines/)
 * [opentelemetry](https://opentelemetry.io/docs/specs/otel/trace/sdk/)
