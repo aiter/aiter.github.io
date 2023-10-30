@@ -68,6 +68,7 @@ tags: [algorithm]
 ## LLM
 
 * Text Generation Inference (TGI)
+* hugging face
 
 ### 参考 Referrences
 
