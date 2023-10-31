@@ -69,6 +69,7 @@ tags: [algorithm]
 
 * Text Generation Inference (TGI)
 * hugging face
+* LangChain
 
 ### 参考 Referrences
 
