@@ -70,6 +70,7 @@ tags: [algorithm]
 * Text Generation Inference (TGI)
 * hugging face
 * LangChain
+* ChatGLM
 
 ### 参考 Referrences
 
