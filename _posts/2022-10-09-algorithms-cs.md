@@ -71,6 +71,7 @@ tags: [algorithm]
 * hugging face
 * LangChain
 * ChatGLM
+* tokenizer
 
 ### 参考 Referrences
 
