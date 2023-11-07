@@ -73,6 +73,8 @@ tags: [algorithm]
 * ChatGLM
 * tokenizer
 
+* OpenAI 4.0 turbo - Dev day
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
