@@ -75,6 +75,8 @@ tags: [algorithm]
 
 * OpenAI 4.0 turbo - Dev day
 
+* SSO
+
 ### 参考 Referrences
 
 * [DRF](https://cs.stanford.edu/~matei/papers/2011/nsdi_drf.pdf)
