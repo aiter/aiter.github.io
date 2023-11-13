@@ -76,6 +76,7 @@ tags: [algorithm]
 * OpenAI 4.0 turbo - Dev day
 
 * SSO
+* JPA
 
 ### 参考 Referrences
 
