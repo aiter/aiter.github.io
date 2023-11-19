@@ -77,6 +77,7 @@ tags: [algorithm]
 
 * SSO
 * JPA
+* NLB/ALB
 
 ### 参考 Referrences
 
