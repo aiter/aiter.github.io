@@ -78,6 +78,7 @@ tags: [algorithm]
 * SSO
 * JPA
 * NLB/ALB
+* REST API
 
 ### 参考 Referrences
 
